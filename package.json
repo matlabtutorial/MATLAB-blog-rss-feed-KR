@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yamadashy/tech-blog--rss-feed.git"
+    "url": "https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR.git"
   },
   "bugs": {
-    "url": "https://github.com/yamadashy/tech-blog-rss-feed/issues"
+    "url": "https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR/issues"
   },
-  "author": "yamadashy",
+  "author": "matlabtutorial",
   "license": "MIT",
   "keywords": [
     "blog",
