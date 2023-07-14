@@ -4,7 +4,7 @@ elemCopyButtons.forEach((elemCopyButton) => {
   elemCopyButton.addEventListener('click', () => {
     const elemInput = elemCopyButton.parentElement?.querySelector('input');
     if (!elemInput) {
-      throw new Error('要素が見つかりません');
+      throw new Error('요소를 찾을 수 없습니다.');
     }
 
     if (navigator.clipboard) {
@@ -16,9 +16,9 @@ elemCopyButtons.forEach((elemCopyButton) => {
 
     elemCopyButton.classList.add('active');
 
-    elemCopyButton.innerHTML = 'コピーしました！';
+    elemCopyButton.innerHTML = '카피 했습니다!';
     window.setTimeout(() => {
-      elemCopyButton.innerHTML = 'コピー';
+      elemCopyButton.innerHTML = '카피';
       elemCopyButton.classList.remove('active');
     }, 1000);
   });

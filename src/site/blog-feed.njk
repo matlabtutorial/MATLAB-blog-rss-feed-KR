@@ -1,7 +1,7 @@
 ---
 layout: layouts/main.njk
 eleventyComputed:
-    pageTitle: "{{ blogFeed.title }}のフィード｜{{ constants.siteTitle }}"
+    pageTitle: "{{ blogFeed.title }}의 피드｜{{ constants.siteTitle }}"
     lastUpdated: "{{ blogFeed.lastUpdatedIso }}"
 pagination:
     data: blogFeeds
@@ -29,16 +29,16 @@ permalink: "blogs/{{ blogFeed.linkMd5Hash }}/"
                 <div class='ui-feed-item'>
                     <a class='ui-feed-item__og-image' href='{{ feedItem.link }}'>
                         {% if feedItem.ogImageUrl %}
-                            {% image feedItem.ogImageUrl, '記事のアイキャッチ画像', page.url | relativeUrl %}
+                            {% image feedItem.ogImageUrl, '기사의 아이캐치 그림', page.url | relativeUrl %}
                         {% else %}
-                            <img src='{{ page.url | relativeUrl }}images/alternate-feed-image.png' loading="lazy" decoding='async' alt='記事のアイキャッチ画像' width='256' height='256'>
+                            <img src='{{ page.url | relativeUrl }}images/alternate-feed-image.png' loading="lazy" decoding='async' alt='기사의 아이캐치 그림' width='256' height='256'>
                         {% endif %}
                     </a>
                     <div class='ui-feed-item__content'>
                         <a class='ui-feed-item__title' href='{{ feedItem.link }}'>{{ feedItem.title }}</a>
                         {% if feedItem.hatenaCount > 0 %}
                             <div class='ui-feed-item__hatena-count' title='はてなブックマーク数'>
-                                <img src='{{ page.url | relativeUrl }}images/hatenabookmark-icon.png' alt='はてなブックマークアイコン' loading="lazy" decoding='async' width='96' height='96'>
+                                <img src='{{ page.url | relativeUrl }}images/hatenabookmark-icon.png' alt='블로그 아이콘' loading="lazy" decoding='async' width='96' height='96'>
                                 <span>{{ feedItem.hatenaCount }}</span>
                             </div>
                         {% endif %}

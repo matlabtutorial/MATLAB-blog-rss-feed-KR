@@ -1,20 +1,20 @@
-const siteUrlStem = 'https://yamadashy.github.io/tech-blog-rss-feed';
+const siteUrlStem = 'https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR';
 const siteUrl = `${siteUrlStem}/`;
 
 module.exports = {
-  // サイト設定
+  // 사이트 설정
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
-  siteTitle: '企業テックブログRSS',
+  siteTitle: 'MATLAB 블로그 RSS',
   siteDescription:
-    '企業のテックブログの更新をまとめたRSSフィードを配信しています。記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。',
+    'MATLAB 블로그 업데이트를 모아놓은 RSS 피드를 제공하고 있습니다. 이를 통해 해당 회사의 기술과 문화를 알 수 있으며, 고품질의 기술 정보를 얻을 수 있도록 목적을 두고 있습니다.',
 
   // フィード設定
-  feedTitle: '企業テックブログRSS',
-  feedDescription: '企業のテックブログの更新をまとめたRSSフィード',
-  feedLanguage: 'ja',
-  feedCopyright: 'yamadashy/tech-blog-rss-feed',
-  feedGenerator: 'yamadashy/tech-blog-rss-feed',
+  feedTitle: 'MATLAB 블로그 RSS',
+  feedDescription: 'MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드',
+  feedLanguage: 'ko',
+  feedCopyright: 'matlabtutorial/tech-blog-rss-feed',
+  feedGenerator: 'matlabtutorial/tech-blog-rss-feed',
   feedUrls: {
     atom: `${siteUrl}feeds/atom.xml`,
     rss: `${siteUrl}feeds/rss.xml`,
@@ -22,18 +22,18 @@ module.exports = {
   },
 
   // GitHub
-  author: 'yamadashy',
-  gitHubUserUrl: 'https://github.com/yamadashy/',
-  gitHubRepositoryUrl: 'https://github.com/yamadashy/tech-blog-rss-feed/',
+  author: 'matlabtutorial',
+  gitHubUserUrl: 'https://github.com/matlabtutorial/',
+  gitHubRepositoryUrl: 'https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR/',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
-  googleSiteVerification: 'GPLvXv8kYtLMW912ZS54DKFEZL6ruOrjOFLdHVTo37o',
-  globalSiteTagKey: 'G-CNNNTL0NB3',
+  googleSiteVerification: '',
+  globalSiteTagKey: '',
 
   // フィードの取得などに使う UserAgent
-  requestUserAgent: 'facebookexternalhit/1.1; yamadashy/tech-blog-rss-feed',
+  requestUserAgent: 'facebookexternalhit/1.1; matlabtutorial/MATLAB-blog-rss-feed-KR',
 
   // サイトの追加方法のリンク
   howToAddSiteLink:
-    'https://github.com/yamadashy/tech-blog-rss-feed#%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E8%BF%BD%E5%8A%A0%E6%96%B9%E6%B3%95',
+    'https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR#%사이트%20추가%20방법',
 };

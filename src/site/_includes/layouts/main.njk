@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ja">
+<html lang="ko">
 <head>
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -61,11 +61,11 @@
         <div class="ui-layout-container">
             <div class="ui-section-header__layout ui-layout-flex">
                 <a href="{{ constants.siteUrl }}" role="link" aria-label="#">
-                    <img src="{{ page.url | relativeUrl }}images/icon.png" alt='サイトロゴ' loading="lazy" decoding='async' width='96' height='96' />
+                    <img src="{{ page.url | relativeUrl }}images/icon.png" alt='사이트 로고' loading="lazy" decoding='async' width='96' height='96' />
                     <span class='ui-section-header__title'>{{ constants.siteTitle }}</span>
                 </a>
                 <a href="{{ constants.gitHubRepositoryUrl }}" role="link" aria-label="#">
-                    <img src='{{ page.url | relativeUrl }}images/github-mark.png' alt='GitHubロゴ' loading="lazy" decoding='async' width='96' height='96' />
+                    <img src='{{ page.url | relativeUrl }}images/github-mark.png' alt='GitHub 로고' loading="lazy" decoding='async' width='96' height='96' />
                 </a>
             </div>
         </div>
@@ -80,13 +80,13 @@
             <div class="ui-layout-column-6 ui-layout-column-center">
                 <div class="ui-component-cta ui-layout-flex ui-section-footer__site-info">
                     <p class="ui-text-note">
-                        このサイトは<br>記事を読んでその企業の技術・カルチャーを知れることや<br>質の高い技術情報を得られることを目的としています。
+                        이 사이트는 <br> 블로그 글을 읽어 해당 기업의 기술 및 문화를 이해하고, <br> 고품질의 기술 정보를 얻는 것을 목표로 합니다.
                     </p>
                     {% if constants.howToAddSiteLink %}
                     <p class='ui-text-note'>
-                        追加したいブログがある場合は<br>
-                        <a href='{{ constants.howToAddSiteLink }}'>サイトの追加方法</a>
-                        をご参照ください。
+                        추가하고 싶은 블로그가 있는 경우에는 <br>
+                        <a href='{{ constants.howToAddSiteLink }}'>사이트 추가 방법</a>
+                        을 참고해주세요.
                     </p>
                     {% endif %}
                 </div>

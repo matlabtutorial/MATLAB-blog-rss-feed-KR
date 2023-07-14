@@ -1,7 +1,7 @@
 ---
 layout: layouts/main.njk
 eleventyComputed:
-    pageTitle: "人気フィード｜{{ constants.siteTitle }}"
+    pageTitle: "인기 피드｜{{ constants.siteTitle }}"
     lastUpdated: "{{ lastModifiedBlogsDate }}"
 ---
 
@@ -9,8 +9,8 @@ eleventyComputed:
 
 <section class="ui-section-content ui-section-feed">
     <div class="ui-layout-container">
-        <h2 class='ui-typography-heading'>直近1週間の人気フィード</h2>
-        <p class='ui-text-note'>はてなブックマーク数を元に新着優先で並べ替え</p>
+        <h2 class='ui-typography-heading'>최근 1주간의 인기 피드</h2>
+        <p class='ui-text-note'>북마크 수를 기준으로 최신 순서로 정렬</p>
 
         <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed ui-container-feed--hot">
             {% asyncEach feedItem in feedItemsHot %}

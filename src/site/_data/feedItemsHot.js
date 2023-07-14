@@ -1,13 +1,13 @@
 const path = require('path');
 const fs = require('fs/promises');
 const dayjs = require('dayjs');
-require('dayjs/locale/ja');
+require('dayjs/locale/ko');
 
 dayjs.extend(require('dayjs/plugin/relativeTime'));
 dayjs.extend(require('dayjs/plugin/timezone'));
 dayjs.extend(require('dayjs/plugin/utc'));
-dayjs.locale('ja');
-dayjs.tz.setDefault('Asia/Tokyo');
+dayjs.locale('ko');
+dayjs.tz.setDefault('Asia/Seoul');
 
 const FEED_ITEM_FILTER_DAY = 7;
 const MIN_HATENA_BOOKMARK_AMOUNT = 3;
