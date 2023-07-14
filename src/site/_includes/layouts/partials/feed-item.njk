@@ -1,16 +1,16 @@
 <div class='ui-feed-item'>
     <a class='ui-feed-item__og-image' href='{{ feedItem.url }}'>
         {% if feedItem.image %}
-            {% image feedItem.image.url, '기사의 아이캐치 그림', page.url | relativeUrl %}
+            {% image feedItem.image.url, '포스팅 대표 그림', page.url | relativeUrl %}
         {% else %}
-            <img src='{{ page.url | relativeUrl }}images/alternate-feed-image.png' loading="lazy" decoding='async' alt='記事のアイキャッチ画像' width='256' height='256'>
+            <img src='{{ page.url | relativeUrl }}images/alternate-feed-image.png' loading="lazy" decoding='async' alt='포스팅 대표 그림' width='256' height='256'>
         {% endif %}
     </a>
     <div class='ui-feed-item__content'>
         <a class='ui-feed-item__title' href='{{ feedItem.url }}'>{{ feedItem._custom.originalTitle }}</a>
         {% if feedItem._custom.hatenaCount > 0 %}
             <div class='ui-feed-item__hatena-count' title='블로그 개수'>
-                <img src='{{ page.url | relativeUrl }}images/hatenabookmark-icon.png' alt='はてなブックマークアイコン' loading="lazy" decoding='async' width='96' height='96'>
+                <img src='{{ page.url | relativeUrl }}images/hatenabookmark-icon.png' alt='하테나 북마크 아이콘' loading="lazy" decoding='async' width='96' height='96'>
                 <span>{{ feedItem._custom.hatenaCount }}</span>
             </div>
         {% endif %}
