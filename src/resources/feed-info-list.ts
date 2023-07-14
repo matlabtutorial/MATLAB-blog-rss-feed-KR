@@ -16,7 +16,7 @@ const createFeedInfoList = (feedInfoTuples: [label: string, url: string][]) => {
 // フィード情報一覧。アルファベット順
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
-  ['MATLAB For Everyone', 'https://matlabtutorial.github.io/feed.xml'],
+  ['MATLAB For Everyone', 'https://matlabtutorial.github.io/feed'],
   ['게으른 매트랩', 'https://lazymatlab.tistory.com/feed'],
   ['허밍스테레오', 'https://hummingstereo.tistory.com/feed'],
 ]);
