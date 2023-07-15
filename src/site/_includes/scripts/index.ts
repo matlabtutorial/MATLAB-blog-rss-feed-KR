@@ -16,9 +16,9 @@ elemCopyButtons.forEach((elemCopyButton) => {
 
     elemCopyButton.classList.add('active');
 
-    elemCopyButton.innerHTML = '카피 했습니다!';
+    elemCopyButton.innerHTML = '복사 했습니다!';
     window.setTimeout(() => {
-      elemCopyButton.innerHTML = '카피';
+      elemCopyButton.innerHTML = '복사';
       elemCopyButton.classList.remove('active');
     }, 1000);
   });
