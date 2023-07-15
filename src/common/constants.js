@@ -7,7 +7,7 @@ module.exports = {
   siteUrlStem: siteUrlStem,
   siteTitle: 'MATLAB 블로그 RSS',
   siteDescription:
-    'MATLAB 블로그 업데이트를 모아놓은 RSS 피드를 제공하고 있습니다. 이를 통해 해당 회사의 기술과 문화를 알 수 있으며, 고품질의 기술 정보를 얻을 수 있도록 목적을 두고 있습니다.',
+    'MATLAB 블로그 업데이트를 모아놓은 RSS 피드를 제공하고 있습니다. 이를 통해 MATLAB 관련 고품질의 기술 정보를 얻을 수 있도록 목적을 두고 있습니다.',
 
   // フィード設定
   feedTitle: 'MATLAB 블로그 RSS',
@@ -35,5 +35,5 @@ module.exports = {
 
   // サイトの追加方法のリンク
   howToAddSiteLink:
-    'https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR#%사이트%20추가%20방법',
+    'https://github.com/matlabtutorial/MATLAB-blog-rss-feed-KR#%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B6%94%EA%B0%80-%EB%B0%A9%EB%B2%95',
 };

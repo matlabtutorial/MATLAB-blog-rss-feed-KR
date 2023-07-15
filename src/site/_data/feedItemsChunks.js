@@ -16,7 +16,8 @@ module.exports = async () => {
 
   // 直近1週間分
   feedItems = feedItems.filter((feedItem) => {
-    return dayjs(feedItem.date_published) > dayjs().subtract(7, 'd');
+    // return dayjs(feedItem.date_published) > dayjs().subtract(7, 'd'); // Original
+    return dayjs(feedItem.date_published) > dayjs().subtract(180, 'd');
   });
 
   // データ調整
