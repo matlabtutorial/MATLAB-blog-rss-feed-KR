@@ -23,5 +23,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['MATLAB Korea 공식 유튜브 채널', 'https://www.youtube.com/feeds/videos.xml?channel_id=UC6Zjgg_0PQBm96aHeiXrjXQ'],
   ['Chopthal', 'https://chopthal.github.io/atom'],
   ['게으른 매트랩 유튜브 채널', 'https://www.youtube.com/feeds/videos.xml?channel_id=UCmuncM-oc73SOcqz79u4ftg'],
-  ['모찌박사 유튜브 채널', 'https://www.youtube.com/feeds/videos.xml?channel_id=UC6S9UXOnbKC-esTTpN3YWPw']
+  ['모찌박사 유튜브 채널', 'https://www.youtube.com/feeds/videos.xml?channel_id=UC6S9UXOnbKC-esTTpN3YWPw'],
+  ['게으른쌤의 매트랩', 'https://wikidocs.net/book/12301/rss/']
 ]);
