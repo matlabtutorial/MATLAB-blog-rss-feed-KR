@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</id>
+    <title>MATLAB 블로그 RSS</title>
+    <updated>2024-10-25T00:40:34.256Z</updated>
+    <generator>matlabtutorial/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/"/>
+    <link rel="self" href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/feeds/atom.xml"/>
+    <subtitle>MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드</subtitle>
+    <logo>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/icon.png</logo>
+    <icon>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/favicon.ico</icon>
+    <rights>matlabtutorial/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[MATLAB과 Python 딥러닝 협업 개발 | MATLAB 딥러닝, Python 오픈소스와 함께 사용하기, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=X2RPsfV2RZ0</id>
+        <link href="https://www.youtube.com/watch?v=X2RPsfV2RZ0"/>
+        <updated>2024-10-23T05:00:29.000Z</updated>
+        <published>2024-10-23T05:00:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 통한 효율적 딥러닝 개발 | MATLAB 딥러닝, Python 오픈소스와 함께 사용하기, 파트 1 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=HEqjL0IgTfk</id>
+        <link href="https://www.youtube.com/watch?v=HEqjL0IgTfk"/>
+        <updated>2024-10-23T05:00:17.000Z</updated>
+        <published>2024-10-23T05:00:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 7일, 'HIL TECH 2024 in BIXPO 국제 컨퍼런스' 에서 매스웍스 발표 예정 (행사 사전등록 필수) | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223627545770</id>
+        <link href="https://blog.naver.com/matlablove/223627545770"/>
+        <updated>2024-10-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HIL(Hardware In the Loop) 기술의 현주소와 미래 에너지 분야에서의 활용 가능한 솔루션을 다루는 'HIL TECH 2024 in BIXPO' 국제 컨퍼런스가 오는 11월7일, BIXPO 기간 중에 김대중컨벤션센터에서 개최됩니다. 행사 주제 : 미래 에너지 대응을 위한 디지털 솔루션 행사 일자 : 2024년 11월 7일(목) - 8일 (금)...]]></summary>
+        <content type="html"><![CDATA[HIL(Hardware In the Loop) 기술의 현주소와 미래 에너지 분야에서의 활용 가능한 솔루션을 다루는 'HIL TECH 2024 in BIXPO' 국제 컨퍼런스가 오는 11월7일, BIXPO 기간 중에 김대중컨벤션센터에서 개최됩니다. 행사 주제 : 미래 에너지 대응을 위한 디지털 솔루션 행사 일자 : 2024년 11월 7일(목) - 8일 (금) 1일차 (컨퍼런스) : 김대중 컨벤션센터 4층 컨벤션 1홀 2일차 (데모쇼) : 에너지밸리기업개발원 시험인증동 [발표 정보] 'MATLAB/Simulink를 이용한 효율적인 전력전자 시스템 개발 및 사례'를 주제로 매스웍스코리아 강효석 프로가 11월 7일 (1일차) 14:55에 발표를 진행합니다. 발표에 포함되는 내용 연료전지.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="전력 전자 제어 설계"/>
+        <published>2024-10-22T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB 을 활용한 편미분방정식과 그 풀이 | MATLAB을 활용한 미분방정식, 파트 5 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=cjK3GI3udm0</id>
+        <link href="https://www.youtube.com/watch?v=cjK3GI3udm0"/>
+        <updated>2024-10-21T05:00:20.000Z</updated>
+        <published>2024-10-21T05:00:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulink를 사용하여 신호의 평균을 구하는 방법 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=e7bNBlm_c_8</id>
+        <link href="https://www.youtube.com/watch?v=e7bNBlm_c_8"/>
+        <updated>2024-10-16T05:00:25.000Z</updated>
+        <published>2024-10-16T05:00:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/261784</id>
+        <link href="https://wikidocs.net/261784"/>
+        <updated>2024-10-14T06:14:40.000Z</updated>
+        <summary type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></summary>
+        <content type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></content>
+        <published>2024-10-14T06:14:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 이용한 데이터 전처리 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=deYHYAwPsWU</id>
+        <link href="https://www.youtube.com/watch?v=deYHYAwPsWU"/>
+        <updated>2024-10-14T05:00:23.000Z</updated>
+        <published>2024-10-14T05:00:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감정 분석이란? | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=Sxc4JAGRPYs</id>
+        <link href="https://www.youtube.com/watch?v=Sxc4JAGRPYs"/>
+        <updated>2024-10-11T05:00:16.000Z</updated>
+        <published>2024-10-11T05:00:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 이용한 Visual SLAM | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=hfIygpkcR4M</id>
+        <link href="https://www.youtube.com/watch?v=hfIygpkcR4M"/>
+        <updated>2024-10-07T05:00:26.000Z</updated>
+        <published>2024-10-07T05:00:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.1 2차원 그래프 그리기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256865</id>
+        <link href="https://wikidocs.net/256865"/>
+        <updated>2024-10-07T04:07:40.000Z</updated>
+        <summary type="html"><![CDATA[5.1 2차원 그래프 그리기]]></summary>
+        <content type="html"><![CDATA[5.1 2차원 그래프 그리기]]></content>
+        <published>2024-10-07T04:07:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 엔지니어링을 위한 쉽고 효율적인 설계 도구 소개 | 디지털 엔지니어링을 위한 쉽고 효율적인 설계 도구 소개, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=kVdormmx3ak</id>
+        <link href="https://www.youtube.com/watch?v=kVdormmx3ak"/>
+        <updated>2024-10-02T05:00:35.000Z</updated>
+        <published>2024-10-02T05:00:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿼드콥터 개발 혁신: MBSE와 디지털 트윈으로 시작하기 | 쿼드콥터 예제로 배우는 디지털 엔지니어링 개발 방법론, 파트 1 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=RxdLFrCiIhY</id>
+        <link href="https://www.youtube.com/watch?v=RxdLFrCiIhY"/>
+        <updated>2024-10-02T05:00:14.000Z</updated>
+        <published>2024-10-02T05:00:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 엔지니어링의 개요와 Workflow 소개 | 디지털 엔지니어링을 위한 쉽고 효율적인 설계 도구 소개, 파트 1 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=QGBWIp2Fco4</id>
+        <link href="https://www.youtube.com/watch?v=QGBWIp2Fco4"/>
+        <updated>2024-10-02T05:00:11.000Z</updated>
+        <published>2024-10-02T05:00:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 트윈과 DevSecOps: 쿼드콥터 개발의 통합 접근법 | 쿼드콥터 예제로 배우는 디지털 엔지니어링 개발 방법론, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=7SBPCG9lLBY</id>
+        <link href="https://www.youtube.com/watch?v=7SBPCG9lLBY"/>
+        <updated>2024-10-02T05:00:04.000Z</updated>
+        <published>2024-10-02T05:00:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능을 활용한 차수 축소 모델링 | 시스템 개발에 사용가능한 인공지능 개발, 파트 1 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=yLo7LNYsBpg</id>
+        <link href="https://www.youtube.com/watch?v=yLo7LNYsBpg"/>
+        <updated>2024-09-30T05:00:43.000Z</updated>
+        <published>2024-09-30T05:00:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동 시각 검증 시스템에 적합한 인공지능 모델 소개 및 어플리케이션/하드웨어 배포  | 공장 자동화의 눈: 인공지능을 통한 비주얼 인스펙션 시스템, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=yqyaxmIfA9E</id>
+        <link href="https://www.youtube.com/watch?v=yqyaxmIfA9E"/>
+        <updated>2024-09-30T05:00:43.000Z</updated>
+        <published>2024-09-30T05:00:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능을 활용한 가상센서 모델링 | 시스템 개발에 사용가능한 인공지능 개발, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=Yp_rp-5Jo5I</id>
+        <link href="https://www.youtube.com/watch?v=Yp_rp-5Jo5I"/>
+        <updated>2024-09-30T05:00:30.000Z</updated>
+        <published>2024-09-30T05:00:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동 시각 검증 시스템 개발을 위한 영상 전처리 및 인공지능 모델 설계  | 공장 자동화의 눈: 인공지능을 통한 비주얼 인스펙션 시스템, 파트 1 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=q66UaFhLLr4</id>
+        <link href="https://www.youtube.com/watch?v=q66UaFhLLr4"/>
+        <updated>2024-09-30T05:00:29.000Z</updated>
+        <published>2024-09-30T05:00:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.2 그래프 부가 정보 추가하기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/258337</id>
+        <link href="https://wikidocs.net/258337"/>
+        <updated>2024-09-30T04:14:39.000Z</updated>
+        <summary type="html"><![CDATA[6.2 그래프 부가 정보 추가하기]]></summary>
+        <content type="html"><![CDATA[6.2 그래프 부가 정보 추가하기]]></content>
+        <published>2024-09-30T04:14:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB 대학생 AI 경진대회 2024 수상작 발표 | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223595684248</id>
+        <link href="https://blog.naver.com/matlablove/223595684248"/>
+        <updated>2024-09-26T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[매스웍스코리아가 주최한 ‘MATLAB 대학생 AI 경진대회 2024’의 Top 3 수상작이 공개되었습니다. MATLAB 대학생 AI 경진대회는 인공지능(AI) 기술을 활용한 아이디어를 MATLAB으로 구현해보는 학생 경진대회로서 대학교에 재학 중인 학생이면 누구나 참여할 수 있습니다. MATLAB를 사용하여 인공지능 기술을 우리 실생활에 새롭게 적용하거나 ...]]></summary>
+        <content type="html"><![CDATA[매스웍스코리아가 주최한 ‘MATLAB 대학생 AI 경진대회 2024’의 Top 3 수상작이 공개되었습니다. MATLAB 대학생 AI 경진대회는 인공지능(AI) 기술을 활용한 아이디어를 MATLAB으로 구현해보는 학생 경진대회로서 대학교에 재학 중인 학생이면 누구나 참여할 수 있습니다. MATLAB를 사용하여 인공지능 기술을 우리 실생활에 새롭게 적용하거나 산업에서 기존의 프로세스를 개선할 수 있는 아이디어를 구현하고 해당 내용을 영상으로 제출하는 방식으로, 매해 참신한 AI 프로젝트를 확인하고 있습니다. MATLAB 대학생 AI 경진대회 2024 수상팀 발표🏆 1등: 낙상 감지를 위한 레이더 기반 인간 행동 인식 시스템 / 부산대학교 - 전지적 레이더.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="MATLAB AI 경진대회"/>
+        <published>2024-09-26T00:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.1 여러 그래프 겹쳐 그리기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/258196</id>
+        <link href="https://wikidocs.net/258196"/>
+        <updated>2024-09-11T04:17:10.000Z</updated>
+        <summary type="html"><![CDATA[6.1 여러 그래프 겹쳐 그리기]]></summary>
+        <content type="html"><![CDATA[6.1 여러 그래프 겹쳐 그리기]]></content>
+        <published>2024-09-11T04:17:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6. 2차원 그래프 그리기 응용 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/258194</id>
+        <link href="https://wikidocs.net/258194"/>
+        <updated>2024-09-09T04:57:40.000Z</updated>
+        <summary type="html"><![CDATA[6. 2차원 그래프 그리기 응용]]></summary>
+        <content type="html"><![CDATA[6. 2차원 그래프 그리기 응용]]></content>
+        <published>2024-09-09T04:57:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MATLAB AI 모델 챌린지]에 참여하고 상금의 기회도 얻으세요! | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223577439408</id>
+        <link href="https://blog.naver.com/matlablove/223577439408"/>
+        <updated>2024-09-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[누구나 참여가능한 MATLAB AI 모델 챌린지에 도전하세요! 챌린지에 참가하여 자신만의 인공지능(AI) 모델을 개발하여 상금도 얻고, 자신의 코드를 File Exchange를 통해 전 세계 MATLAB 사용자들과 공유해주세요. MATLAB 및 Simulink로 개발한 무료 오픈 소스 코드 사용이 가능한 File Exchange에서 여러분의 창의적이고 실용...]]></summary>
+        <content type="html"><![CDATA[누구나 참여가능한 MATLAB AI 모델 챌린지에 도전하세요! 챌린지에 참가하여 자신만의 인공지능(AI) 모델을 개발하여 상금도 얻고, 자신의 코드를 File Exchange를 통해 전 세계 MATLAB 사용자들과 공유해주세요. MATLAB 및 Simulink로 개발한 무료 오픈 소스 코드 사용이 가능한 File Exchange에서 여러분의 창의적이고 실용적인 아이디어를 모델로 구현해 세상을 변화시킬 수 있는 기회를 놓치지 마시기 바랍니다. 대회일정 : 2024년 9월 30일 오후 6시 : 참가 신청 접수 마감 2024년 9월 1일 ~ 11월 15일 오후 6시 : File Exchange에 코드 퍼블리시 마감 2024년 12월 1일 ~ 12월 31일 오후 6시: 모델 다운로드 및 별점 프로모션 진행 2025년 2.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="MATLAB 세미나/웨비나"/>
+        <published>2024-09-09T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.4 2차원 그래프의 이름-값 인자들 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/257595</id>
+        <link href="https://wikidocs.net/257595"/>
+        <updated>2024-09-05T04:44:20.000Z</updated>
+        <summary type="html"><![CDATA[5.4 2차원 그래프의 이름-값 인자들]]></summary>
+        <content type="html"><![CDATA[5.4 2차원 그래프의 이름-값 인자들]]></content>
+        <published>2024-09-05T04:44:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.3 RGB를 이용한 색 표현 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/257502</id>
+        <link href="https://wikidocs.net/257502"/>
+        <updated>2024-09-05T03:15:55.000Z</updated>
+        <summary type="html"><![CDATA[5.3 RGB를 이용한 색 표현]]></summary>
+        <content type="html"><![CDATA[5.3 RGB를 이용한 색 표현]]></content>
+        <published>2024-09-05T03:15:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.2 그래프 스타일 지정하기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/257204</id>
+        <link href="https://wikidocs.net/257204"/>
+        <updated>2024-09-05T03:08:14.000Z</updated>
+        <summary type="html"><![CDATA[5.2 그래프 스타일 지정하기]]></summary>
+        <content type="html"><![CDATA[5.2 그래프 스타일 지정하기]]></content>
+        <published>2024-09-05T03:08:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.4 문자열 포맷팅 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256743</id>
+        <link href="https://wikidocs.net/256743"/>
+        <updated>2024-08-29T14:13:41.000Z</updated>
+        <summary type="html"><![CDATA[4.4 문자열 포맷팅]]></summary>
+        <content type="html"><![CDATA[4.4 문자열 포맷팅]]></content>
+        <published>2024-08-29T14:13:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.3 문자열 출력 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256688</id>
+        <link href="https://wikidocs.net/256688"/>
+        <updated>2024-08-29T14:04:03.000Z</updated>
+        <summary type="html"><![CDATA[4.3 문자열 출력]]></summary>
+        <content type="html"><![CDATA[4.3 문자열 출력]]></content>
+        <published>2024-08-29T14:04:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5. 2차원 그래프 그리기 기초 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256826</id>
+        <link href="https://wikidocs.net/256826"/>
+        <updated>2024-08-29T04:17:55.000Z</updated>
+        <summary type="html"><![CDATA[5. 2차원 그래프 그리기 기초]]></summary>
+        <content type="html"><![CDATA[5. 2차원 그래프 그리기 기초]]></content>
+        <published>2024-08-29T04:17:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.2 사용자 입력 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256653</id>
+        <link href="https://wikidocs.net/256653"/>
+        <updated>2024-08-27T07:28:58.000Z</updated>
+        <summary type="html"><![CDATA[4.2 사용자 입력]]></summary>
+        <content type="html"><![CDATA[4.2 사용자 입력]]></content>
+        <published>2024-08-27T07:28:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.1 문자열은 행렬이다 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256624</id>
+        <link href="https://wikidocs.net/256624"/>
+        <updated>2024-08-27T07:28:51.000Z</updated>
+        <summary type="html"><![CDATA[4.1 문자열은 행렬이다]]></summary>
+        <content type="html"><![CDATA[4.1 문자열은 행렬이다]]></content>
+        <published>2024-08-27T07:28:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4. 문자열 다루기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256583</id>
+        <link href="https://wikidocs.net/256583"/>
+        <updated>2024-08-26T12:02:55.000Z</updated>
+        <summary type="html"><![CDATA[4. 문자열 다루기]]></summary>
+        <content type="html"><![CDATA[4. 문자열 다루기]]></content>
+        <published>2024-08-26T12:02:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.6 행렬 수정하기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/256168</id>
+        <link href="https://wikidocs.net/256168"/>
+        <updated>2024-08-23T13:02:04.000Z</updated>
+        <summary type="html"><![CDATA[3.6 행렬 수정하기]]></summary>
+        <content type="html"><![CDATA[3.6 행렬 수정하기]]></content>
+        <published>2024-08-23T13:02:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.5 행렬의 인덱싱 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/253240</id>
+        <link href="https://wikidocs.net/253240"/>
+        <updated>2024-08-22T12:35:10.000Z</updated>
+        <summary type="html"><![CDATA[3.5 행렬의 인덱싱]]></summary>
+        <content type="html"><![CDATA[3.5 행렬의 인덱싱]]></content>
+        <published>2024-08-22T12:35:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.4 행렬을 다루는 함수 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/250150</id>
+        <link href="https://wikidocs.net/250150"/>
+        <updated>2024-08-22T07:26:13.000Z</updated>
+        <summary type="html"><![CDATA[3.4 행렬을 다루는 함수]]></summary>
+        <content type="html"><![CDATA[3.4 행렬을 다루는 함수]]></content>
+        <published>2024-08-22T07:26:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.3 행렬의 연산 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/240406</id>
+        <link href="https://wikidocs.net/240406"/>
+        <updated>2024-08-19T06:05:35.000Z</updated>
+        <summary type="html"><![CDATA[3.3 행렬의 연산]]></summary>
+        <content type="html"><![CDATA[3.3 행렬의 연산]]></content>
+        <published>2024-08-19T06:05:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLDC 모터 제어의 최신 기법: 능동 외란 제거 제어(ADRC) 적용 및 비교 | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223540584042</id>
+        <link href="https://blog.naver.com/matlablove/223540584042"/>
+        <updated>2024-08-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[전자식 정류 모터 또는 '브러시리스(Brushless)' 모터는 기계식 정류 모터 또는 '브러시' 모터에 비해 전기 효율이 높고 중량대비 토크 출력이 높기 때문에 점점 인기가 높아지고 있습니다. 그래서 BLDC(브러시리스 DC) 모터는 자동차 산업, 펌프 시스템 산업, 롤링 산업과 같은 다양한 응용 분야에 사용됩니다. BLDC 모터의 실제 적용에는 많은 유...]]></summary>
+        <content type="html"><![CDATA[전자식 정류 모터 또는 '브러시리스(Brushless)' 모터는 기계식 정류 모터 또는 '브러시' 모터에 비해 전기 효율이 높고 중량대비 토크 출력이 높기 때문에 점점 인기가 높아지고 있습니다. 그래서 BLDC(브러시리스 DC) 모터는 자동차 산업, 펌프 시스템 산업, 롤링 산업과 같은 다양한 응용 분야에 사용됩니다. BLDC 모터의 실제 적용에는 많은 유형의 외란이 존재합니다. 이는 매개변수 변화, 역기전력, 토크 리플, 마찰력, 모델화되지 않은 동역학 및 부하 변화와 같은 외부 교란으로, 구현된 제어 기술이 이러한 외란을 제거할 수 없는 경우 폐루프 제어에서 성능이 저하될 수 있습니다. 그래서 이러한 부분을 보완하고.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="전력 전자 제어 설계"/>
+        <published>2024-08-08T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능 개발자 첫걸음: MATLAB으로 모델 개발하기 - 시작하기 전에 알아야 할 모든 것 | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223505590493</id>
+        <link href="https://blog.naver.com/matlablove/223505590493"/>
+        <updated>2024-07-09T02:01:39.000Z</updated>
+        <summary type="html"><![CDATA[많은 산업의 엔지니어가 AI 기술을 프로젝트와 애플리케이션에 접목시켜 새로운 제품 및 서비스를 개발하거나 프로세스를 개선하려는 시도를 진행하고 있습니다. 하지만 인공지능 모델을 개발하는데 있어서는 여러가지 현실적인 어려움에 직면하게 됩니다. 먼저 모델을 개발하기 위한 프로그래밍 기술이 필요할 것입니다. 다음으로 학습에 사용할 데이터 관리, AI 모델 설계 ...]]></summary>
+        <content type="html"><![CDATA[많은 산업의 엔지니어가 AI 기술을 프로젝트와 애플리케이션에 접목시켜 새로운 제품 및 서비스를 개발하거나 프로세스를 개선하려는 시도를 진행하고 있습니다. 하지만 인공지능 모델을 개발하는데 있어서는 여러가지 현실적인 어려움에 직면하게 됩니다. 먼저 모델을 개발하기 위한 프로그래밍 기술이 필요할 것입니다. 다음으로 학습에 사용할 데이터 관리, AI 모델 설계 및 학습 , 시뮬레이션 및 테스트 그리고 모델 배포에 이르기까지 풀어야할 과제들이 단계별로 존재합니다. 마치 문제를 푼 후 문을 열고 나서면 또 다른 닫혀 있는 문과 맏닥뜨리게 되는 상황과 비슷합니다. 그러면 이제부터 인공지능 개발의 4가지 단계와 각 단계별 매스.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="머신러닝과 딥러닝"/>
+        <published>2024-07-09T02:01:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.06.19.(수) 유니티 마스터 초청 강좌 12회차 (AI네비게이션) | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=_xTRAEAqm7k</id>
+        <link href="https://www.youtube.com/watch?v=_xTRAEAqm7k"/>
+        <updated>2024-06-19T21:06:57.000Z</updated>
+        <published>2024-06-19T21:06:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3. 행렬 다루기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/226392</id>
+        <link href="https://wikidocs.net/226392"/>
+        <updated>2024-06-09T06:32:08.000Z</updated>
+        <summary type="html"><![CDATA[3. 행렬 다루기]]></summary>
+        <content type="html"><![CDATA[3. 행렬 다루기]]></content>
+        <published>2024-06-09T06:32:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.2 행렬을 만드는 방법 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/229525</id>
+        <link href="https://wikidocs.net/229525"/>
+        <updated>2024-06-09T05:50:47.000Z</updated>
+        <summary type="html"><![CDATA[3.2 행렬을 만드는 방법]]></summary>
+        <content type="html"><![CDATA[3.2 행렬을 만드는 방법]]></content>
+        <published>2024-06-09T05:50:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(6/20 마감 임박) MATLAB 대학생 AI 경진대회 2024 | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223467575763</id>
+        <link href="https://blog.naver.com/matlablove/223467575763"/>
+        <updated>2024-06-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[매스웍스코리아가 개최하는 제 4회 'MATLAB 대학생 AI 경진대회'의 참가 신청이 6월 20일 오후 6시에 마감됩니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회로, 인공지능 기술이 우리의 삶을 어떻게 변화시킬 수 있는지 또는 산업 현장에서 기존의 프로세스를 어떻게 개선할 수 있는지에 대한 대학생 여...]]></summary>
+        <content type="html"><![CDATA[매스웍스코리아가 개최하는 제 4회 'MATLAB 대학생 AI 경진대회'의 참가 신청이 6월 20일 오후 6시에 마감됩니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회로, 인공지능 기술이 우리의 삶을 어떻게 변화시킬 수 있는지 또는 산업 현장에서 기존의 프로세스를 어떻게 개선할 수 있는지에 대한 대학생 여러분의 참신한 아이디어를 기다립니다. MATLAB으로 구현한 여러분의 창의적인 프로젝트를 제출하시고, 우승 상금 200만원의 주인공이 되세요! MATLAB 대학생 AI 경진대회 2024 ▶ 참가 신청: 2024년 6월 20일 오후 6시 마감 ▶ 영상 및 코드 제출: 2024년 7월 31일 오후 6시 마감 ▶ 결.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="MATLAB AI 경진대회"/>
+        <published>2024-06-07T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.06.05.(수) 유니티 마스터 초청 강좌 11회차 (빌드와 배포, 소스관리) | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=mD4R3GNxnNY</id>
+        <link href="https://www.youtube.com/watch?v=mD4R3GNxnNY"/>
+        <updated>2024-06-05T22:32:52.000Z</updated>
+        <published>2024-06-05T22:32:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.05.22.(수) 유니티 마스터 초청 강좌 10회차 (슈팅게임과 트리거) | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=vlLm4hk7Rl0</id>
+        <link href="https://www.youtube.com/watch?v=vlLm4hk7Rl0"/>
+        <updated>2024-05-23T09:28:48.000Z</updated>
+        <published>2024-05-23T09:28:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라즈베리파이피코(PICO) 온라인연수20210226 2부 | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=lBpfrClUTCw</id>
+        <link href="https://www.youtube.com/watch?v=lBpfrClUTCw"/>
+        <updated>2024-05-19T13:20:32.000Z</updated>
+        <published>2024-05-19T13:20:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라즈베리파이피코(PICO) 온라인연수20210226 1부 | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=9aqb8ArYhUA</id>
+        <link href="https://www.youtube.com/watch?v=9aqb8ArYhUA"/>
+        <updated>2024-05-19T13:20:25.000Z</updated>
+        <published>2024-05-19T13:20:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래프에서 데이터 뽑아내기 | 게으른 맽랩 Lazy Matlab]]></title>
+        <id>https://www.youtube.com/watch?v=9jRrwMS3E4s</id>
+        <link href="https://www.youtube.com/watch?v=9jRrwMS3E4s"/>
+        <updated>2024-05-17T14:42:00.000Z</updated>
+        <published>2024-05-17T14:42:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics problem - Visualized via Matlab | 게으른 맽랩 Lazy Matlab]]></title>
+        <id>https://www.youtube.com/watch?v=JX3KpCRiJw0</id>
+        <link href="https://www.youtube.com/watch?v=JX3KpCRiJw0"/>
+        <updated>2024-05-17T06:25:54.000Z</updated>
+        <published>2024-05-17T06:25:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLDC 모터 제어 - 모델링, 알고리즘 개발, 테스트 및 코드 생성 | MATLAB&amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223441057505</id>
+        <link href="https://blog.naver.com/matlablove/223441057505"/>
+        <updated>2024-05-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[최근에 전동화가 가속화 되면서 EV, UAM, 전기 스쿠터 및 자전거 등의 시장이 커지고 있습니다. 이 시스템에는 모터를 포함한 다양한 전자 장치들을 포함하고 있습니다. 특히, 모터의 경우에는 다양한 어플리케이션에 모터가 활용되면서 시스템의 동작에 대한 요구사항들이 복잡해지고 급변하는 시장에 빠르게 대응해야 하는 문제가 있습니다. 이를 해결하기 위해서 Ma...]]></summary>
+        <content type="html"><![CDATA[최근에 전동화가 가속화 되면서 EV, UAM, 전기 스쿠터 및 자전거 등의 시장이 커지고 있습니다. 이 시스템에는 모터를 포함한 다양한 전자 장치들을 포함하고 있습니다. 특히, 모터의 경우에는 다양한 어플리케이션에 모터가 활용되면서 시스템의 동작에 대한 요구사항들이 복잡해지고 급변하는 시장에 빠르게 대응해야 하는 문제가 있습니다. 이를 해결하기 위해서 MathWorks에서는 기존의 개발 프로세서를 개선하기 위해 모델기반 설계를 적용하여 모터 제어 개발 워크플로우를 손쉽게 구축할 수 있습니다. 다양한 모터 중에서 그림1과 같이 전자 정류 모터 또는 '브러시리스(Brushless)' 모터는 기계 정류 혹은 '브러시' .......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="전력 전자 제어 설계"/>
+        <published>2024-05-09T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.05.08.(수) 유니티 마스터 초청 강좌 9회차 (캐릭터 조종) | 모찌박사]]></title>
+        <id>https://www.youtube.com/watch?v=PfG_tkXu4Ko</id>
+        <link href="https://www.youtube.com/watch?v=PfG_tkXu4Ko"/>
+        <updated>2024-05-08T22:30:48.000Z</updated>
+        <published>2024-05-08T22:30:48.000Z</published>
+    </entry>
+</feed>
