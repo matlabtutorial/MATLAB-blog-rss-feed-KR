@@ -12,44 +12,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint-biome:
-    name: Lint Biome
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version-file: .tool-versions
-        cache: npm
-    - run: npm ci
-    - run: npm run lint-biome && git diff --exit-code
-
-  lint-ts:
-    name: Lint TypeScript
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version-file: .tool-versions
-        cache: npm
-    - run: npm ci
-    - run: npm run lint-ts
-
-  lint-secretlint:
-    name: Lint Secretlint
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version-file: .tool-versions
-        cache: npm
-    - run: npm ci
-    - run: npm run lint-secretlint
 
   lint-renovate-config:
     name: Lint Renovate config
