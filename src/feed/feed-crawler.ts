@@ -254,10 +254,15 @@ export class FeedCrawler {
     // 全ブログの調整
     for (const feedItem of customFeed.items) {
       feedItem.link = feedItem.link || '';
-
-      // 記事URLのクエリパラメーター削除。はてな用
-      feedItem.link = urlRemoveQueryParams(feedItem.link);
-
+      
+      // Angelo changed this because YouTube feeds include "?" in the url to query videos
+      if (feedItem.link.startsWith('https://www.youtube.com/')) {
+        // Do nothing
+      } else {
+         // 記事URLのクエリパラメーター削除。はてな用
+        feedItem.link = urlRemoveQueryParams(feedItem.link);
+      }
+     
       // 不正な文字列の削除
       feedItem.title = feedItem.title ? removeInvalidUnicode(feedItem.title) : '';
       feedItem.summary = feedItem.summary ? removeInvalidUnicode(feedItem.summary) : '';
