@@ -15,44 +15,23 @@ on:
 jobs:
   generate-feed:
     name: Generate Feed
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
-
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: main
-
-      - name: Setup node
-        uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: 14.20.0
-          cache: yarn
-
-      - name: Install node packages
-        run: yarn install
-
-      - name: Get date
-        id: get-date
-        run: |
-          echo "::set-output name=date::$(/bin/date -u "+%Y%m%d")"
-        shell: bash
-
-      - name: Cache feed images
-        uses: actions/cache@v2
-        with:
-          path: .cache
-          key: ${{ runner.os }}-feed-images-${{ steps.get-date.outputs.date }}
-
-      - name: Generate feed
-        run: yarn feed-generate
-
-      - name: Generate site
-        run: yarn site-build
-
-      - name: GitHub Pages action
-        uses: peaceiris/actions-gh-pages@v3.9.3
+          node-version-file: .tool-versions
+          cache: npm
+      - run: npm ci
+      - uses: ./.github/actions/restore-feed-cache
+      - run: npm run feed-generate
+      - run: npm run site-prepare
+      - run: npm run site-build
+      - uses: ./.github/actions/save-feed-cache
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
