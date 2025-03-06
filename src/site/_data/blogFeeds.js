@@ -7,8 +7,8 @@ import 'dayjs/locale/ja';
 dayjs.extend(relativeTime);
 dayjs.extend(timezone);
 dayjs.extend(utc);
-dayjs.locale('ja');
-dayjs.tz.setDefault('Asia/Tokyo');
+dayjs.locale('ko');
+dayjs.tz.setDefault('Asia/Seoul');
 
 export default async () => {
   const blogFeedsModule = await import('../blog-feeds/blog-feeds.json');
