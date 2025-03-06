@@ -1,7 +1,7 @@
 <div class='ui-feed-item'>
     <a class='ui-feed-item__og-image' href='{{ feedItem.url }}'>
         {% if feedItem.image %}
-            {% image feedItem.image.url, '포스팅 대표 그림', page.url | relativeUrl %}
+            {% imageThumbnail feedItem.image.url, '포스팅 대표 그림', page.url | relativeUrl %}
         {% else %}
             <img src='{{ page.url | relativeUrl }}images/alternate-feed-image.png' loading="lazy" decoding='async' alt='포스팅 대표 그림' width='256' height='256'>
         {% endif %}
