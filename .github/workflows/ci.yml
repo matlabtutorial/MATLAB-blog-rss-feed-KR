@@ -12,28 +12,100 @@ on:
   workflow_dispatch:
 
 jobs:
-  ci:
-    runs-on: ubuntu-20.04
+  lint-biome:
+    name: Lint Biome
+    runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-biome && git diff --exit-code
 
-      - name: Setup node
-        uses: actions/setup-node@v2
+  lint-ts:
+    name: Lint TypeScript
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-ts
+
+  lint-secretlint:
+    name: Lint Secretlint
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-secretlint
+
+  lint-renovate-config:
+    name: Lint Renovate config
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - name: Validate Renovate config
+      run: npx --yes --package renovate -- renovate-config-validator --strict
+
+  lint-action:
+    name: Lint GitHub Actions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://rhysd/actionlint:latest
         with:
-          node-version: 14.20.0
-          cache: yarn
+          args: "-color"
 
-      - name: Install node packages
-        run: yarn install
+  check-typo:
+    name: Check typos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: crate-ci/typos@v1.29.0
 
-      - name: Run lint
-        run: yarn lint
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run test-coverage
 
-      - name: Run type check
-        run: yarn type-check
-
-      - name: Run test
-        run: yarn test
+  generate:
+    name: Generate feed and site
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - run: npm ci
+      - uses: ./.github/actions/restore-feed-cache
+      - run: npm run feed-generate
+      - run: npm run site-prepare
+      - run: npm run site-build
+      - uses: ./.github/actions/save-feed-cache
