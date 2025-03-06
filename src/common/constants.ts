@@ -40,7 +40,7 @@ export default {
   // 処理の設定
   feedFetchConcurrency: 50, // フィードを取得する並列数
   feedOgFetchConcurrency: 20, // OG情報を取得する並列数
-  aggregateFeedDurationInHours: 8 * 24, // まとめフィードの対象となる時間の範囲
+  aggregateFeedDurationInHours: 180 * 24, // まとめフィードの対象となる時間の範囲
   maxFeedDescriptionLength: 200, // フィードのdescriptionの最大文字数
   maxFeedContentLength: 500, // フィードのcontentの最大文字数
   processImageConcurrency: 50, // 画像の処理の並列数。画像取得と変換
