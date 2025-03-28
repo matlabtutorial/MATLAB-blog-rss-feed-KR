@@ -1,3 +1,3 @@
-import constants from '../../common/constants.js';
+import constants from '../../common/constants.ts';
 
 export default constants;
