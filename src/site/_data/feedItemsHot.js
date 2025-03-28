@@ -1,5 +1,5 @@
 import dayjs from 'dayjs';
-import 'dayjs/locale/ja';
+import 'dayjs/locale/ko';
 import relativeTime from 'dayjs/plugin/relativeTime';
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
@@ -7,8 +7,8 @@ import utc from 'dayjs/plugin/utc';
 dayjs.extend(relativeTime);
 dayjs.extend(timezone);
 dayjs.extend(utc);
-dayjs.locale('ja');
-dayjs.tz.setDefault('Asia/Tokyo');
+dayjs.locale('ko');
+dayjs.tz.setDefault('Asia/Seoul');
 
 const FEED_ITEM_FILTER_DAY = 7;
 const MIN_HATENA_BOOKMARK_AMOUNT = 3;
