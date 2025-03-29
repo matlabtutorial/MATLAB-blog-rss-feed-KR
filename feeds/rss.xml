@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 블로그 RSS</title>
+        <link>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</link>
+        <description>MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드</description>
+        <lastBuildDate>Sat, 29 Mar 2025 15:11:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>matlabtutorial/tech-blog-rss-feed</generator>
+        <language>ko</language>
+        <image>
+            <title>MATLAB 블로그 RSS</title>
+            <url>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/icon.png</url>
+            <link>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</link>
+        </image>
+        <copyright>matlabtutorial/tech-blog-rss-feed</copyright>
+        <atom:link href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Safety Analysis Manager에서 스프레드시트 생성 | Simulink Fault Analyzer 시작하기, 파트 3 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=4kigD0ze6us</link>
+            <guid>https://www.youtube.com/watch?v=4kigD0ze6us</guid>
+            <pubDate>Mon, 24 Mar 2025 05:00:04 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/4kigD0ze6us/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[8.4 if-elseif-else문 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278504</link>
+            <guid>https://wikidocs.net/278504</guid>
+            <pubDate>Thu, 20 Mar 2025 07:37:24 GMT</pubDate>
+            <description><![CDATA[8.4 if-elseif-else문]]></description>
+            <content:encoded><![CDATA[8.4 if-elseif-else문]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[11.3 switch-case문 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278796</link>
+            <guid>https://wikidocs.net/278796</guid>
+            <pubDate>Thu, 20 Mar 2025 07:32:16 GMT</pubDate>
+            <description><![CDATA[11.3 switch-case문]]></description>
+            <content:encoded><![CDATA[11.3 switch-case문]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[11. 조건문의 응용 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/279094</link>
+            <guid>https://wikidocs.net/279094</guid>
+            <pubDate>Thu, 20 Mar 2025 07:32:03 GMT</pubDate>
+            <description><![CDATA[11. 조건문의 응용]]></description>
+            <content:encoded><![CDATA[11. 조건문의 응용]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[10. Logical 자료형 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/279093</link>
+            <guid>https://wikidocs.net/279093</guid>
+            <pubDate>Thu, 20 Mar 2025 07:31:52 GMT</pubDate>
+            <description><![CDATA[10. Logical 자료형]]></description>
+            <content:encoded><![CDATA[10. Logical 자료형]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[09. 비교 연산과 논리 연산 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/279092</link>
+            <guid>https://wikidocs.net/279092</guid>
+            <pubDate>Thu, 20 Mar 2025 07:31:21 GMT</pubDate>
+            <description><![CDATA[09. 비교 연산과 논리 연산]]></description>
+            <content:encoded><![CDATA[09. 비교 연산과 논리 연산]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[8.3 if-else문 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278503</link>
+            <guid>https://wikidocs.net/278503</guid>
+            <pubDate>Wed, 19 Mar 2025 08:50:07 GMT</pubDate>
+            <description><![CDATA[8.3 if-else문]]></description>
+            <content:encoded><![CDATA[8.3 if-else문]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Simulink Fault Analyzer로 결함 정의 및 모델링 | Simulink Fault Analyzer 시작하기, 파트 2 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=M078tstlJXQ</link>
+            <guid>https://www.youtube.com/watch?v=M078tstlJXQ</guid>
+            <pubDate>Wed, 19 Mar 2025 05:00:17 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/M078tstlJXQ/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB AI 모델 챌린지 - 최종 발표 및 수상자 인터뷰 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223799012585</link>
+            <guid>https://blog.naver.com/matlablove/223799012585</guid>
+            <pubDate>Tue, 18 Mar 2025 05:00:00 GMT</pubDate>
+            <description><![CDATA[지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이]]></description>
+            <content:encoded><![CDATA[지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이 블로그 글에서는 수상자들의 뛰어난 작품을 조명하고, 그들 중 MathWorks상 수상자의 성공 비결과 도전 과정을 알아보는 인터뷰를 통해 AI 모델 개발의 인사이트를 공유하고자 합니다. MATLAB AI 모델 챌린지 수상작 확인하기 MathWorks상 수상자 인터뷰 간략한 자기소개를 해주세요. 제 이름은.......]]></content:encoded>
+            <category>머신러닝과 딥러닝</category>
+        </item>
+        <item>
+            <title><![CDATA[역행렬의 계산 방법 | 선형대수학의 행렬방법, 파트 3-3 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=sua1auXddjA</link>
+            <guid>https://www.youtube.com/watch?v=sua1auXddjA</guid>
+            <pubDate>Mon, 17 Mar 2025 05:00:44 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/sua1auXddjA/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[40585 = 4! + 0! + 5! + 8! + 5! | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/305</link>
+            <guid>https://lazymatlab.tistory.com/305</guid>
+            <pubDate>Sun, 16 Mar 2025 13:32:27 GMT</pubDate>
+            <description><![CDATA[https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if ]]></description>
+            <content:encoded><![CDATA[https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if i == sum(factorial(list)) fprintf('%d = ', i) for n = 1:length(list)-1 fprintf('%d! + ', list(n)) end fprintf('%d!\n', list(end)) keyboard endend 1 = 1!2 = 2!145 = 1! + 4! + 5!40585 = 4! + 0! + 5! + 8! + 5! 이 이후로는 370만까지 나오지 않았다. 9!는 기껏해야 362880이므로 이 이후로는 나오지 않는다. 끗]]></content:encoded>
+            <category>matlab</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkIAMG%2FbtsMMDXIcWa%2F8aH6PKHxkroUjimlePuUP1%2Fimg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[8.2 if문 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278471</link>
+            <guid>https://wikidocs.net/278471</guid>
+            <pubDate>Sat, 15 Mar 2025 11:02:03 GMT</pubDate>
+            <description><![CDATA[8.2 if문]]></description>
+            <content:encoded><![CDATA[8.2 if문]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 빔포밍이 레이더에 유용한 이유 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=qZzdvs7xO54</link>
+            <guid>https://www.youtube.com/watch?v=qZzdvs7xO54</guid>
+            <pubDate>Wed, 12 Mar 2025 05:00:44 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/qZzdvs7xO54/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[8.1 조건문이 필요한 이유 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278132</link>
+            <guid>https://wikidocs.net/278132</guid>
+            <pubDate>Mon, 10 Mar 2025 13:17:42 GMT</pubDate>
+            <description><![CDATA[8.1 조건문이 필요한 이유]]></description>
+            <content:encoded><![CDATA[8.1 조건문이 필요한 이유]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[08. 조건문 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/278131</link>
+            <guid>https://wikidocs.net/278131</guid>
+            <pubDate>Mon, 10 Mar 2025 12:20:25 GMT</pubDate>
+            <description><![CDATA[08. 조건문]]></description>
+            <content:encoded><![CDATA[08. 조건문]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[머신러닝을 사용하는 ROM(차수 축소 모델) | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=MhhxcskW4r0</link>
+            <guid>https://www.youtube.com/watch?v=MhhxcskW4r0</guid>
+            <pubDate>Mon, 10 Mar 2025 05:00:15 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/MhhxcskW4r0/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[슬라이딩 모드 제어란? | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=WZfz2Ezc-YA</link>
+            <guid>https://www.youtube.com/watch?v=WZfz2Ezc-YA</guid>
+            <pubDate>Fri, 07 Mar 2025 05:00:28 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/WZfz2Ezc-YA/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[7.5 다양한 3차원 그래프들 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/276305</link>
+            <guid>https://wikidocs.net/276305</guid>
+            <pubDate>Thu, 06 Mar 2025 07:52:56 GMT</pubDate>
+            <description><![CDATA[7.5 다양한 3차원 그래프들]]></description>
+            <content:encoded><![CDATA[7.5 다양한 3차원 그래프들]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[7.4 면 그래프의 이해 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/276015</link>
+            <guid>https://wikidocs.net/276015</guid>
+            <pubDate>Thu, 06 Mar 2025 06:43:00 GMT</pubDate>
+            <description><![CDATA[7.4 면 그래프의 이해]]></description>
+            <content:encoded><![CDATA[7.4 면 그래프의 이해]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB을 활용한 양자 몬테카를로(QMC) | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=CAPTQ8JLjgw</link>
+            <guid>https://www.youtube.com/watch?v=CAPTQ8JLjgw</guid>
+            <pubDate>Wed, 05 Mar 2025 05:00:07 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/CAPTQ8JLjgw/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[미션 엔지니어링 - 통신 및 레이더 시스템 모델링 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=tGk4GqrC_sE</link>
+            <guid>https://www.youtube.com/watch?v=tGk4GqrC_sE</guid>
+            <pubDate>Fri, 28 Feb 2025 05:00:50 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/tGk4GqrC_sE/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[미션 엔지니어링 - 임무기반 트레이드 오프 시뮬레이션 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=p7Cwe_VA1OA</link>
+            <guid>https://www.youtube.com/watch?v=p7Cwe_VA1OA</guid>
+            <pubDate>Fri, 28 Feb 2025 05:00:49 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/p7Cwe_VA1OA/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[무선 시스템을 위한 인공지능 개발 개요 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=_eMf8Uo6UYk</link>
+            <guid>https://www.youtube.com/watch?v=_eMf8Uo6UYk</guid>
+            <pubDate>Fri, 28 Feb 2025 05:00:37 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/_eMf8Uo6UYk/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[무선 시스템을 위한 인공지능 개발 예제 및 사례 소개 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=TCzC_iholFI</link>
+            <guid>https://www.youtube.com/watch?v=TCzC_iholFI</guid>
+            <pubDate>Fri, 28 Feb 2025 05:00:28 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/TCzC_iholFI/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB 을 활용한 데이터 분석 결과 공유 및 Excel로의 배포 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=dh5J6zu1N_U</link>
+            <guid>https://www.youtube.com/watch?v=dh5J6zu1N_U</guid>
+            <pubDate>Wed, 26 Feb 2025 05:00:36 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/dh5J6zu1N_U/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Excel 데이터를 활용한 MATLAB 사용법 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=3O--LvCk1iw</link>
+            <guid>https://www.youtube.com/watch?v=3O--LvCk1iw</guid>
+            <pubDate>Wed, 26 Feb 2025 05:00:02 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/3O--LvCk1iw/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB을 사용한 영상 처리와 컴퓨터 비전 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=ogYWJRuB0Z8</link>
+            <guid>https://www.youtube.com/watch?v=ogYWJRuB0Z8</guid>
+            <pubDate>Mon, 24 Feb 2025 05:00:53 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/ogYWJRuB0Z8/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[가우스 조던 행렬 소거법의 계산 방법 | 선형대수학의 행렬방법, 파트 3-2 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=omvDqP_5rbY</link>
+            <guid>https://www.youtube.com/watch?v=omvDqP_5rbY</guid>
+            <pubDate>Wed, 19 Feb 2025 05:00:50 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/omvDqP_5rbY/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/261784</link>
+            <guid>https://wikidocs.net/261784</guid>
+            <pubDate>Tue, 11 Feb 2025 08:31:46 GMT</pubDate>
+            <description><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></description>
+            <content:encoded><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[7.3 면 그래프의 속성 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/273988</link>
+            <guid>https://wikidocs.net/273988</guid>
+            <pubDate>Mon, 10 Feb 2025 23:34:28 GMT</pubDate>
+            <description><![CDATA[7.3 면 그래프의 속성]]></description>
+            <content:encoded><![CDATA[7.3 면 그래프의 속성]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도우 10 설정 및 제어판이 안 열릴 때 | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/304</link>
+            <guid>https://lazymatlab.tistory.com/304</guid>
+            <pubDate>Mon, 10 Feb 2025 03:57:37 GMT</pubDate>
+            <description><![CDATA[unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하]]></description>
+            <content:encoded><![CDATA[unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하는 방법현재 이용 중인 컴퓨터에서 발생 중인 에러가 윈도우 자체에서 발생하는 문제라 생각된다면 다른 방법을 시도하기 전에 dism 복구 명령어를 이용하는 방법을 우선적으로 시도해보는 것이 좋다.comformation.tistory.com https://comformation.tistory.com/36 윈도우10 설정 안열림(앱 먹통, 실행 안됨) 문제, 해결 방법윈도우에서 자주 사용되는 대부분의 설정 값들은 설정 앱을 통해 변경해볼 수 있다. 그런데, 간혹 이런 것들의 제어를 위해 설정을 실행하려 해도 아예 열리지 않는 문제가 있는]]></content:encoded>
+            <category>something else</category>
+            <enclosure length="0" type="image//thumb/R800x0/" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FA8ppp%2FbtsMdKWMXKD%2F2tbuOx672umxfuCxOxZDsk%2Ftfile.avif"/>
+        </item>
+        <item>
+            <title><![CDATA[OBS studio에서 녹화 일시 중지하고 싶을 때 | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/303</link>
+            <guid>https://lazymatlab.tistory.com/303</guid>
+            <pubDate>Mon, 10 Feb 2025 03:46:34 GMT</pubDate>
+            <description><![CDATA[Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-rec]]></description>
+            <content:encoded><![CDATA[Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-recording-button.140031/]]></content:encoded>
+            <category>something else</category>
+            <category>obs studio</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdomkW3%2FbtsMbE4OI38%2Fgj3iiPbOMh0xTB2rmvv1xK%2Fimg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[7.1 3차원 선 그래프 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/272034</link>
+            <guid>https://wikidocs.net/272034</guid>
+            <pubDate>Thu, 23 Jan 2025 15:16:24 GMT</pubDate>
+            <description><![CDATA[7.1 3차원 선 그래프]]></description>
+            <content:encoded><![CDATA[7.1 3차원 선 그래프]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[7.2 3차원 면 그래프 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/272222</link>
+            <guid>https://wikidocs.net/272222</guid>
+            <pubDate>Wed, 22 Jan 2025 05:30:28 GMT</pubDate>
+            <description><![CDATA[7.2 3차원 면 그래프]]></description>
+            <content:encoded><![CDATA[7.2 3차원 면 그래프]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Basic properties of group homomorphism | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/302</link>
+            <guid>https://lazymatlab.tistory.com/302</guid>
+            <pubDate>Wed, 22 Jan 2025 00:59:17 GMT</pubDate>
+            <description><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; Suppose $f: G \to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity pres]]></description>
+            <content:encoded><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; Suppose $f: G \to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity preservation: $f(e) = e'$ pf) $\forall g\in G, f(g) = f(e\,g) = f(e) f(g)$. Thus $f(e) = e'$. 2. Inverse preservation: $\forall g\in G, f(g^{-1}) = f(g)^{-1}$ pf) $\forall g\in G, e' = f(e) = f(g\,g^{-1}) = f(g) f(g^{-1})$. Thus $f(g)^{-1} = f(g^{-1})$. 3. Kernel is a normal subgroup: $\ker f \trianglel]]></content:encoded>
+            <category>mathe</category>
+            <category>abstract algebra</category>
+            <category>group homomorphism</category>
+            <category>group theory</category>
+            <category>kernel</category>
+            <category>normal subgroup</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fp7Q84%2FbtsL0zpGMxo%2FlcDYkJOntEJBb2KknxpItK%2Fimg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[넘파이와 파이썬의 정수 표현 범위 | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/301</link>
+            <guid>https://lazymatlab.tistory.com/301</guid>
+            <pubDate>Tue, 21 Jan 2025 11:53:41 GMT</pubDate>
+            <description><![CDATA[https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &amp;gt;&amp;gt;&amp;gt; import numpy as np&amp;gt;&amp;gt;&amp;gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 4790016]]></description>
+            <content:encoded><![CDATA[https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &amp;gt;&amp;gt;&amp;gt; import numpy as np&amp;gt;&amp;gt;&amp;gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 479001600, 6227020800, 87178291200, 1307674368000, 20922789888000, 355687428096000, 6402373705728000, 121645100408832000, 2432902008176640000, -4249290049419214848, -1250660718674968576, 8128291617894825984, -7835185981329244160, 7034535277573963776, -1569523520172457984, -5483646897237262336, -59681605329]]></content:encoded>
+            <category>python</category>
+            <category>넘파이</category>
+            <category>오버플로우</category>
+            <category>정수</category>
+            <category>파이썬</category>
+            <enclosure length="0" type="jpg" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpZhuN%2FbtsLTQdZCAH%2FzegnbhoHLKvhgymRkPVVnK%2Fimg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MATLAB AI 모델 챌린지] AI 모델 다운받고 기프티콘 받아가세요! | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223727742822</link>
+            <guid>https://blog.naver.com/matlablove/223727742822</guid>
+            <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+            <description><![CDATA[MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘]]></description>
+            <content:encoded><![CDATA[MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘을 제공해드립니다. 또한, 가장 많이 다운로드 받은 모델 및 높은 별점을 받은 모델의 참가자에게는 우승 상금이 주어집니다. MATLAB AI 모델 챌린지에 제출된 모델을 다운받고 커피 기프티콘 받아가세요. 이벤트 일정 ~ 2025년 1월 31일 : 모델 다운로드 및 별점 프로모션 진행 2025년 2월 27일: 수.......]]></content:encoded>
+            <category>머신러닝과 딥러닝</category>
+        </item>
+        <item>
+            <title><![CDATA[[HORIZON] 전구의 불은 켜질까? | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/300</link>
+            <guid>https://lazymatlab.tistory.com/300</guid>
+            <pubDate>Mon, 13 Jan 2025 05:14:58 GMT</pubDate>
+            <description><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. ]]></description>
+            <content:encoded><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. https://horizon.kias.re.kr/30621/ 전구는 위 그림처럼 아래 두 전구가 다르면 꺼지고 같으면 켜진다. 곰곰이 생각해보니 홀짝성 문제임을 알 수 있었다. (짝, 짝)이거나 (홀, 홀)이면 켜지고, 그 외에는 꺼진다. 즉, 합이 짝이면 켜지고 합이 홀이면 꺼진다. 문제는 다음과 같다. 2049층짜리 트리를 만들고, 1층 전구 상태를 원주율에 따라 결정한다. 1층의 n번째 전구는 원주율 소수점 아래 n번째 자리 숫자가 홀수이면 끄고 짝수이면 켠다. 이 트리의 맨 윗층 전구는 켜질까, 꺼질까? 원주율의 모든 숫자를]]></content:encoded>
+            <category>mathe</category>
+            <category>Horizon</category>
+            <category>수학퍼즐</category>
+            <enclosure length="0" type="jpg" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7N3hv%2FbtsLLzPUAFj%2FrSoc0RNOQ1SdEgFaMpzsP1%2Fimg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sum of uncountably many positive numbers is always infinite. | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/299</link>
+            <guid>https://lazymatlab.tistory.com/299</guid>
+            <pubDate>Mon, 13 Jan 2025 04:38:02 GMT</pubDate>
+            <description><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; pixabay Suppose a set $X = \{x_{\alpha} &amp;gt; 0 | \alpha \in I\}$ is an uncountable set. We will show that the sum of all elements of $X$ is ]]></description>
+            <content:encoded><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; pixabay Suppose a set $X = \{x_{\alpha} &amp;gt; 0 | \alpha \in I\}$ is an uncountable set. We will show that the sum of all elements of $X$ is infinite. Consider the family of the following sets. $$ S_n := \left\{ x_{\alpha} \in X \; \mid \; x_{\alpha} \ge \frac{1}{n} \right\} $$ Then $$\bigcup_{n\in \mathbb{N}} S_n = X$$ $X$ is uncountable, so there exists $n_0 \in \mathbb{N}$ such that $S_{n_0}$ is an infinite set. Since the sum of all e]]></content:encoded>
+            <category>mathe</category>
+            <category>Analysis</category>
+            <category>infinite</category>
+            <category>무한</category>
+            <category>해석학</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrxCz3%2FbtsLL9QEJVl%2FYosQ67fCPTlUEQDONpjqlK%2Fimg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬 중고급 스킬들 | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/298</link>
+            <guid>https://lazymatlab.tistory.com/298</guid>
+            <pubDate>Fri, 10 Jan 2025 05:45:05 GMT</pubDate>
+            <description><![CDATA[pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&amp;gt;&amp;gt;&amp;gt; a = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; b = a&amp;gt;&amp;gt;&amp;gt; a == bTrue&amp;gt;&amp;gt;&amp;gt; a is bTrue&amp;gt;&amp;gt;&amp;gt; c = [1, 2, 3]]></description>
+            <content:encoded><![CDATA[pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&amp;gt;&amp;gt;&amp;gt; a = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; b = a&amp;gt;&amp;gt;&amp;gt; a == bTrue&amp;gt;&amp;gt;&amp;gt; a is bTrue&amp;gt;&amp;gt;&amp;gt; c = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; a == cTrue&amp;gt;&amp;gt;&amp;gt; a is cFalse&amp;gt;&amp;gt;&amp;gt; unpacking operator*는 시퀀스를 요소를 하나씩 풀어서 전달한다. **는 딕셔너리의 키-밸류 쌍을 풀어서 전달한다.&amp;gt;&amp;gt;&amp;gt; l = [1, 3, 2, 4]&amp;gt;&amp;gt;&amp;gt; print(*l)1 3 2 4&amp;gt;&amp;gt;&amp;gt; d = {0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; print(*d)0 1 2&amp;gt;&amp;gt;&amp;gt; d = {0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; {**d}{0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; {**d, 4:'four'}]]></content:encoded>
+            <category>python</category>
+            <category>고급</category>
+            <category>중급</category>
+            <category>파이썬</category>
+            <enclosure length="0" type="jpg" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FboI65K%2FbtsLJgC8yzn%2Fau4naIMQFzdA8e8sBMtBp1%2Fimg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능 개발을 위해 MATLAB과 Python 함께 사용하기 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223719722651</link>
+            <guid>https://blog.naver.com/matlablove/223719722651</guid>
+            <pubDate>Thu, 09 Jan 2025 02:03:43 GMT</pubDate>
+            <description><![CDATA[많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MA]]></description>
+            <content:encoded><![CDATA[많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MATLAB을 사용하는 경우가 많습니다. MATLAB은 과학 및 공학 분야의 Technical Computing 애플리케이션에 최적화되어 있어 개발 시간을 절약할 수 있게 도와주며 내장된 앱과 ‘Live Task’는 코딩을 최소화할 수 있게 해 줍니다. 공학 및 과학 애플리케이션이 여러 기술을 필요로 할 때, ‘MATLAB과 Python 간의 상호 운용성.......]]></content:encoded>
+            <category>머신러닝과 딥러닝</category>
+        </item>
+        <item>
+            <title><![CDATA[07. 3차원 그래프 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/272022</link>
+            <guid>https://wikidocs.net/272022</guid>
+            <pubDate>Tue, 07 Jan 2025 02:26:01 GMT</pubDate>
+            <description><![CDATA[07. 3차원 그래프]]></description>
+            <content:encoded><![CDATA[07. 3차원 그래프]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euler-Phi Function | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/297</link>
+            <guid>https://lazymatlab.tistory.com/297</guid>
+            <pubDate>Mon, 06 Jan 2025 12:17:49 GMT</pubDate>
+            <description><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\gcd(mn, x) = 1$(b) $\gcd(m, x) =]]></description>
+            <content:encoded><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\gcd(mn, x) = 1$(b) $\gcd(m, x) = 1$ and $\gcd(n, x) = 1$(c) $\gcd(m, a) = 1$ and $\gcd(n, b) = 1$ where $a$ and $b$ are remainders of $x$ divided by $m$ and $n$, respectively.[Def] $\mathbb{U}_n := \{x\in \mathbb{Z} \;|\; 0 \le x &amp;lt; n, \gcd(n, x) = 1 \}$Given two coprime positive integers $m$, $n$, define a function\begin{align}f: ]]></content:encoded>
+            <category>mathe</category>
+            <category>euler-phi</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKyNRV%2FbtsLGeRDBAr%2FK0Z82Bx601I5SaoAAI1rTK%2Fimg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[6.6 다양한 그래프들 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/268766</link>
+            <guid>https://wikidocs.net/268766</guid>
+            <pubDate>Sun, 05 Jan 2025 06:25:26 GMT</pubDate>
+            <description><![CDATA[6.6 다양한 그래프들]]></description>
+            <content:encoded><![CDATA[6.6 다양한 그래프들]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB으로 자율주행의 미래를 그리다: 세종대 AIV 팀의 우승 스토리 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223697455164</link>
+            <guid>https://blog.naver.com/matlablove/223697455164</guid>
+            <pubDate>Fri, 20 Dec 2024 05:00:00 GMT</pubDate>
+            <description><![CDATA[오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. ]]></description>
+            <content:encoded><![CDATA[오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. 이 부문에서 학생들은 실제와 가까운 시뮬레이터에 직접 개발한 자율주행 알고리즘을 탑재해 경쟁하게 됩니다. 올해는 세종대학교 AIV 팀이 뛰어난 성과를 거두며 우승을 차지했습니다. 세종대 AIV 팀원들은 특히, MATLAB을 활용한 알고리즘 프로토타이핑과 데이터 시각화 기능이 대회 준비에 큰 도움이 되었다고 우승 후기를 전합니.......]]></content:encoded>
+            <category>학교/대학지원</category>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Korea 유튜브 구독자 감사 이벤트곧 마감합니다. | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223689531259</link>
+            <guid>https://blog.naver.com/matlablove/223689531259</guid>
+            <pubDate>Wed, 11 Dec 2024 09:00:00 GMT</pubDate>
+            <description><![CDATA[MATLAB Korea 유튜브 채널이 곧 1만 구독자를 돌파할 예정입니다! 이를 기념하며 4주간 구독자분들을 위한 특별 이벤트를 준비했습니다. MATLAB 영상을 보고 경품도 받아가는 이벤트가 곧 마감됩니다. 현재 진행 중인 3 &amp;amp; 4주차 이벤트를 놓치지 마시고 참여하세요. 자세한 참여 방법은 아래에서 확인하실 수 있습니다. [3주차: OX퀴즈 이벤트(~1]]></description>
+            <content:encoded><![CDATA[MATLAB Korea 유튜브 채널이 곧 1만 구독자를 돌파할 예정입니다! 이를 기념하며 4주간 구독자분들을 위한 특별 이벤트를 준비했습니다. MATLAB 영상을 보고 경품도 받아가는 이벤트가 곧 마감됩니다. 현재 진행 중인 3 &amp;amp; 4주차 이벤트를 놓치지 마시고 참여하세요. 자세한 참여 방법은 아래에서 확인하실 수 있습니다. [3주차: OX퀴즈 이벤트(~12/15까지 참여 가능)] ✔ 참여 방법 1. MATLAB Korea 유튜브 구독하기! 2. BLDC 모터는 사다리꼴 제어를 사용한다 (O/X) 정답과 MATLAB Korea를 향한 응원 메시지를 댓글로 남기기 3. 3주차 이벤트 유튜브 커뮤니티 포스트에 '참여 완료' 댓글 작성하면 끝! (네이버 블로그 댓글은.......]]></content:encoded>
+            <category>무료 영상강좌</category>
+        </item>
+        <item>
+            <title><![CDATA[3.2 행렬을 만드는 방법 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/229525</link>
+            <guid>https://wikidocs.net/229525</guid>
+            <pubDate>Fri, 06 Dec 2024 08:02:43 GMT</pubDate>
+            <description><![CDATA[3.2 행렬을 만드는 방법]]></description>
+            <content:encoded><![CDATA[3.2 행렬을 만드는 방법]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[6.5 Figure 창 관리 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/265620</link>
+            <guid>https://wikidocs.net/265620</guid>
+            <pubDate>Thu, 05 Dec 2024 15:52:06 GMT</pubDate>
+            <description><![CDATA[6.5 Figure 창 관리]]></description>
+            <content:encoded><![CDATA[6.5 Figure 창 관리]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[제1회 매트랩 단톡방 보따리풀링 컨퍼런스 | 게으른 맽랩 Lazy Matlab]]></title>
+            <link>https://www.youtube.com/watch?v=cFCRPnbiEzA</link>
+            <guid>https://www.youtube.com/watch?v=cFCRPnbiEzA</guid>
+            <pubDate>Tue, 03 Dec 2024 02:24:16 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/cFCRPnbiEzA/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[[ matlab ] 구조체형 변수에서 필드 변수 추출 | 허밍]]></title>
+            <link>https://hummingstereo.tistory.com/86</link>
+            <guid>https://hummingstereo.tistory.com/86</guid>
+            <pubDate>Fri, 29 Nov 2024 05:39:00 GMT</pubDate>
+            <description><![CDATA[서론https://hummingstereo.tistory.com/38 구조체형 배열 자동 생성이전에 나는 구조체형 배열 (struct)을 생성시 eval 함수를 이용하여 생성하였다. 과거 방식과 새로운 방식을 기술한다. num = 1:2:19; % old 1 for ii = 1:10 eval(['old.list_',num2str(ii,'%02d'),' = ]]></description>
+            <content:encoded><![CDATA[서론https://hummingstereo.tistory.com/38 구조체형 배열 자동 생성이전에 나는 구조체형 배열 (struct)을 생성시 eval 함수를 이용하여 생성하였다. 과거 방식과 새로운 방식을 기술한다. num = 1:2:19; % old 1 for ii = 1:10 eval(['old.list_',num2str(ii,'%02d'),' = num(',num2str(ii),');'])hummingstereo.tistory.com이전에 구조체형 변수 배열을 반복문으로 만드는 방법을 작성했다.그렇다면 구조체형 배열을 반대로 꺼낼 수 있는 방법 또한 찾아봤다. 방법assignin: 지정된 공간에 변수값 할당 적용clc; clear; close all;% set valuedata.name = 'John Doe';data.age = 30;data.height = 180;data.weight = 75;% get structure value's field valueid = fiel]]></content:encoded>
+            <category>matlab</category>
+            <category>eval</category>
+            <category>matlab</category>
+            <category>변수할당</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[ matlab ] datetime 연산 | 허밍]]></title>
+            <link>https://hummingstereo.tistory.com/87</link>
+            <guid>https://hummingstereo.tistory.com/87</guid>
+            <pubDate>Fri, 29 Nov 2024 05:20:12 GMT</pubDate>
+            <description><![CDATA[서론매트랩을 사용하여 datetime 형식의 날짜 자료와 시간 자료를 합치던 중 다음과 같은 오류가 발생되었다. "다음 사용 중 오류가 발생함: datetime형 배열 간의 덧셈은 정의되지 않았습니다." 방법시간 자료를 timeofday 사용했습니다.timeofday : datetime 형식의 자료중 날짜를 제외한 시간 자료를 duration 형식으로 변환]]></description>
+            <content:encoded><![CDATA[서론매트랩을 사용하여 datetime 형식의 날짜 자료와 시간 자료를 합치던 중 다음과 같은 오류가 발생되었다. "다음 사용 중 오류가 발생함: datetime형 배열 간의 덧셈은 정의되지 않았습니다." 방법시간 자료를 timeofday 사용했습니다.timeofday : datetime 형식의 자료중 날짜를 제외한 시간 자료를 duration 형식으로 변환 적용 이를 조위관측소 1년치 1시간 조위 자료를 처리하는데 사용되었습니다.clc; clear; close all;% pathinp.in = '01_data\인천_2023년 _1시간 조위.txt';% readfid = fopen(inp.in);format = '%{yyyy/MM/dd}D %{HH:mm}D %f';o = textscan(fid,format,'HeaderLines',5,'Delimiter',' ');% renamedate = o{1};time = o{2};dt = date+timeofday(time);elev = o{3]]></content:encoded>
+            <category>matlab</category>
+            <category>datetime  연산</category>
+            <category>matlab</category>
+            <category>조위관측소</category>
+            <enclosure length="0" type="png" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Korea 유튜브 구독자 감사 이벤트구독 이벤트에 참여하고 따듯한 라떼 드세요! | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223671905541</link>
+            <guid>https://blog.naver.com/matlablove/223671905541</guid>
+            <pubDate>Tue, 26 Nov 2024 05:00:00 GMT</pubDate>
+            <description><![CDATA[MATLAB Korea 유튜브 채널이 곧 1만 구독자를 돌파할 예정입니다! 이를 기념하며 4주간 구독자분들을 위한 특별 이벤트를 준비했습니다. 매주 월요일마다 새로운 이벤트가 진행되니, MATLAB 영상을 보고 경품도 받아가세요. 현재 1 &amp;amp; 2주차 이벤트가 공개되었습니다. 아래에서 자세한 참여 방법을 확인하고 참여하세요! [1주차: 깜짝 댓글 이벤트(~1]]></description>
+            <content:encoded><![CDATA[MATLAB Korea 유튜브 채널이 곧 1만 구독자를 돌파할 예정입니다! 이를 기념하며 4주간 구독자분들을 위한 특별 이벤트를 준비했습니다. 매주 월요일마다 새로운 이벤트가 진행되니, MATLAB 영상을 보고 경품도 받아가세요. 현재 1 &amp;amp; 2주차 이벤트가 공개되었습니다. 아래에서 자세한 참여 방법을 확인하고 참여하세요! [1주차: 깜짝 댓글 이벤트(~12/1까지 참여 가능)] ✔ 참여 방법 1. MATLAB Korea 유튜브 구독하기! 2. MATLAB을 이용한 데이터 전처리 영상 시청 &amp;amp; 좋아요 &amp;amp; 감상평 댓글 남기기 3. 1주차 이벤트 유튜브 커뮤니티 포스트에 '참여 완료' 댓글 작성하면 끝! (네이버 블로그 댓글은 인정되지 않습니다.......]]></content:encoded>
+            <category>무료 영상강좌</category>
+        </item>
+        <item>
+            <title><![CDATA[6.4 Figure 창 영역 나누기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/265585</link>
+            <guid>https://wikidocs.net/265585</guid>
+            <pubDate>Sat, 02 Nov 2024 09:25:53 GMT</pubDate>
+            <description><![CDATA[6.4 Figure 창 영역 나누기]]></description>
+            <content:encoded><![CDATA[6.4 Figure 창 영역 나누기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[06. 2차원 그래프 그리기 응용 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/258194</link>
+            <guid>https://wikidocs.net/258194</guid>
+            <pubDate>Fri, 01 Nov 2024 13:08:24 GMT</pubDate>
+            <description><![CDATA[06. 2차원 그래프 그리기 응용]]></description>
+            <content:encoded><![CDATA[06. 2차원 그래프 그리기 응용]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[05. 2차원 그래프 그리기 기초 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/256826</link>
+            <guid>https://wikidocs.net/256826</guid>
+            <pubDate>Fri, 01 Nov 2024 13:08:19 GMT</pubDate>
+            <description><![CDATA[05. 2차원 그래프 그리기 기초]]></description>
+            <content:encoded><![CDATA[05. 2차원 그래프 그리기 기초]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[04. 문자열 다루기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/256583</link>
+            <guid>https://wikidocs.net/256583</guid>
+            <pubDate>Fri, 01 Nov 2024 13:08:10 GMT</pubDate>
+            <description><![CDATA[04. 문자열 다루기]]></description>
+            <content:encoded><![CDATA[04. 문자열 다루기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[03. 행렬 다루기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/226392</link>
+            <guid>https://wikidocs.net/226392</guid>
+            <pubDate>Fri, 01 Nov 2024 13:08:04 GMT</pubDate>
+            <description><![CDATA[03. 행렬 다루기]]></description>
+            <content:encoded><![CDATA[03. 행렬 다루기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[02. 부동 소수점과 숫자 자료형 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/224978</link>
+            <guid>https://wikidocs.net/224978</guid>
+            <pubDate>Fri, 01 Nov 2024 13:07:58 GMT</pubDate>
+            <description><![CDATA[02. 부동 소수점과 숫자 자료형]]></description>
+            <content:encoded><![CDATA[02. 부동 소수점과 숫자 자료형]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[01. 매트랩 시작하기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/217276</link>
+            <guid>https://wikidocs.net/217276</guid>
+            <pubDate>Fri, 01 Nov 2024 13:07:52 GMT</pubDate>
+            <description><![CDATA[01. 매트랩 시작하기]]></description>
+            <content:encoded><![CDATA[01. 매트랩 시작하기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB을 이용한 반도체 분야 데이터 분석과 설계 및 소자 공정 기술세미나(한국나노기술원 &amp;amp; 매스웍스코리아) | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223638245426</link>
+            <guid>https://blog.naver.com/matlablove/223638245426</guid>
+            <pubDate>Thu, 31 Oct 2024 05:00:00 GMT</pubDate>
+            <description><![CDATA[매스웍스코리아와 한국나노기술원은 반도체 분야 데이터 분석과 설계를 위한 MATLAB의 유용한 기능, 그리고 한국나노기술원이 제공하는 소자 공정 기술에 대하여 상세하게 설명하고, 연구원들께서 관련 솔루션을 현업에 적용 검토하실 수 있는 기술세미나를 준비하였습니다. 관심 있으신 분들의 많은 참여 부탁드리겠습니다. 세미나 등록하기 일시 : 2024년 11월 26]]></description>
+            <content:encoded><![CDATA[매스웍스코리아와 한국나노기술원은 반도체 분야 데이터 분석과 설계를 위한 MATLAB의 유용한 기능, 그리고 한국나노기술원이 제공하는 소자 공정 기술에 대하여 상세하게 설명하고, 연구원들께서 관련 솔루션을 현업에 적용 검토하실 수 있는 기술세미나를 준비하였습니다. 관심 있으신 분들의 많은 참여 부탁드리겠습니다. 세미나 등록하기 일시 : 2024년 11월 26일 화요일 오후 1시 00분 ~ 오후 4시 30분 ( 3시간 30분 ) 장소 : 수원컨벤션센터 세미나실 103/104호 (https://www.scc.or.kr/), 경기 수원시 영통구 광교중앙로 140 (신분당선 광교중앙역 4번출구에서 도보로 10분 거리) 참석 대상 인공지능에 관심 있거나 향후 인공지능을 활용.......]]></content:encoded>
+            <category>MATLAB 세미나/웨비나</category>
+        </item>
+        <item>
+            <title><![CDATA[11월 7일, 'HIL TECH 2024 in BIXPO 국제 컨퍼런스' 에서 매스웍스 발표 예정 (행사 사전등록 필수) | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/223627545770</link>
+            <guid>https://blog.naver.com/matlablove/223627545770</guid>
+            <pubDate>Tue, 22 Oct 2024 05:00:00 GMT</pubDate>
+            <description><![CDATA[HIL(Hardware In the Loop) 기술의 현주소와 미래 에너지 분야에서의 활용 가능한 솔루션을 다루는 'HIL TECH 2024 in BIXPO' 국제 컨퍼런스가 오는 11월7일, BIXPO 기간 중에 김대중컨벤션센터에서 개최됩니다. 행사 주제 : 미래 에너지 대응을 위한 디지털 솔루션 행사 일자 : 2024년 11월 7일(목) - 8일 (금)]]></description>
+            <content:encoded><![CDATA[HIL(Hardware In the Loop) 기술의 현주소와 미래 에너지 분야에서의 활용 가능한 솔루션을 다루는 'HIL TECH 2024 in BIXPO' 국제 컨퍼런스가 오는 11월7일, BIXPO 기간 중에 김대중컨벤션센터에서 개최됩니다. 행사 주제 : 미래 에너지 대응을 위한 디지털 솔루션 행사 일자 : 2024년 11월 7일(목) - 8일 (금) 1일차 (컨퍼런스) : 김대중 컨벤션센터 4층 컨벤션 1홀 2일차 (데모쇼) : 에너지밸리기업개발원 시험인증동 [발표 정보] 'MATLAB/Simulink를 이용한 효율적인 전력전자 시스템 개발 및 사례'를 주제로 매스웍스코리아 강효석 프로가 11월 7일 (1일차) 14:55에 발표를 진행합니다. 발표에 포함되는 내용 연료전지.......]]></content:encoded>
+            <category>전력 전자 제어 설계</category>
+        </item>
+        <item>
+            <title><![CDATA[5.1 2차원 그래프 그리기 | 게으른쌤의 매트랩]]></title>
+            <link>https://wikidocs.net/256865</link>
+            <guid>https://wikidocs.net/256865</guid>
+            <pubDate>Mon, 07 Oct 2024 04:07:40 GMT</pubDate>
+            <description><![CDATA[5.1 2차원 그래프 그리기]]></description>
+            <content:encoded><![CDATA[5.1 2차원 그래프 그리기]]></content:encoded>
+            <enclosure length="0" type="png" url="https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png"/>
+        </item>
+    </channel>
+</rss>
