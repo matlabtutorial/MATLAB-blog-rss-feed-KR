@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</id>
+    <title>MATLAB 블로그 RSS</title>
+    <updated>2025-06-14T15:11:25.109Z</updated>
+    <generator>matlabtutorial/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/"/>
+    <link rel="self" href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/feeds/atom.xml"/>
+    <subtitle>MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드</subtitle>
+    <logo>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/icon.png</logo>
+    <icon>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/favicon.ico</icon>
+    <rights>matlabtutorial/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[화물선에 패러세일을 달면 범선이 될 수 있을까요? | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=RaFasoUi1cQ</id>
+        <link href="https://www.youtube.com/watch?v=RaFasoUi1cQ"/>
+        <updated>2025-06-11T05:00:23.000Z</updated>
+        <published>2025-06-11T05:00:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB으로 선형시스템의 해를 구하는 방법 | 선형대수학의 행렬방법, 파트 3-4 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=p4i1QqK3WFw</id>
+        <link href="https://www.youtube.com/watch?v=p4i1QqK3WFw"/>
+        <updated>2025-05-21T05:00:52.000Z</updated>
+        <published>2025-05-21T05:00:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 사용한 딥러닝: 10줄의 코드로 수행하는 전이 학습 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=m1kexyeFe_Y</id>
+        <link href="https://www.youtube.com/watch?v=m1kexyeFe_Y"/>
+        <updated>2025-05-19T05:01:00.000Z</updated>
+        <published>2025-05-19T05:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB과 자율주행의 완벽한 만남 | 2023 현대자동차그룹 자율주행챌린지 우승 스토리 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223838535306</id>
+        <link href="https://blog.naver.com/matlablove/223838535306"/>
+        <updated>2025-05-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023년 현대자동차그룹이 개최한 자율주행챌린지 대회는 실제 차량이 도로와 주변 환경을 실시간으로 인식하고 다양한 미션을 수행하는 세계 최초의 실차 기반 자율주행 레이싱 대회였습니다. 이 대회에서 한양대학교 조기춘 교수팀(당시 건국대학교 소속)은 뛰어난 자율주행 기술과 혁신적인 MATLAB 활용으로 우승을 차지했습니다. 조기춘 교수팀은 대회에서 MATLAB]]></summary>
+        <content type="html"><![CDATA[2023년 현대자동차그룹이 개최한 자율주행챌린지 대회는 실제 차량이 도로와 주변 환경을 실시간으로 인식하고 다양한 미션을 수행하는 세계 최초의 실차 기반 자율주행 레이싱 대회였습니다. 이 대회에서 한양대학교 조기춘 교수팀(당시 건국대학교 소속)은 뛰어난 자율주행 기술과 혁신적인 MATLAB 활용으로 우승을 차지했습니다. 조기춘 교수팀은 대회에서 MATLAB을 객체 추적과 같은 중요한 작업에 활용하였으며, 데이터 및 알고리즘 검증 과정을 개선하기 위해 MATLAB App을 사용한 효과적인 검증 도구를 개발하여 활용하였습니다. 이 성과는 2024년 MATLAB EXPO Korea에서 소개되기도 했습니다. MATLAB을 통한 자율주행 알고리즘 개발 및 적.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="고객활용사례"/>
+        <published>2025-05-15T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Analyzer 앱으로 간편해진 신호 분석 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=mEsLsAlekaM</id>
+        <link href="https://www.youtube.com/watch?v=mEsLsAlekaM"/>
+        <updated>2025-05-14T05:01:00.000Z</updated>
+        <published>2025-05-14T05:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 사용하는 양자 신경망(QNN) | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=D_A9ox5nCHk</id>
+        <link href="https://www.youtube.com/watch?v=D_A9ox5nCHk"/>
+        <updated>2025-05-12T05:00:14.000Z</updated>
+        <published>2025-05-12T05:00:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MATLAB 대학생 AI 경진대회 2025] 5/30 접수 마감 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223857755832</id>
+        <link href="https://blog.naver.com/matlablove/223857755832"/>
+        <updated>2025-05-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하는 매스웍스코리아 주최 'MATLAB 대학생 AI 경진대회'가 올해 5회를 맞이했습니다. 대학교에 재학중인 누구나 지원 가능! 대학교에 재학 중인 학부생 또는 대학원생 (재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 팀원 수 제한 없음 참가 방법과 기한 [예선: ]]></summary>
+        <content type="html"><![CDATA[MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하는 매스웍스코리아 주최 'MATLAB 대학생 AI 경진대회'가 올해 5회를 맞이했습니다. 대학교에 재학중인 누구나 지원 가능! 대학교에 재학 중인 학부생 또는 대학원생 (재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 팀원 수 제한 없음 참가 방법과 기한 [예선: 참가 신청] MATLAB을 사용 한 AI 애플리케이션 및 모델 소개 접수 기한: 2025년 5월 30일 오후 6시까지 접수 방법: 포스팅 하단에 링크된 경진대회 웹페이지를 통해 접수 [본선: 영상 제출] 주제에 대한 설명 및 구현 방식, MATLAB 활용 내용에 대해 YouTube 영상 제출 접수 기한: 2025년.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="MATLAB AI 경진대회"/>
+        <published>2025-05-08T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항공기 설계를 위한 제약 조건 분석 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=T86lGpeyFuA</id>
+        <link href="https://www.youtube.com/watch?v=T86lGpeyFuA"/>
+        <updated>2025-05-07T05:00:35.000Z</updated>
+        <published>2025-05-07T05:00:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10. logical 자료형 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/279093</id>
+        <link href="https://wikidocs.net/279093"/>
+        <updated>2025-05-01T08:42:22.000Z</updated>
+        <summary type="html"><![CDATA[10. logical 자료형]]></summary>
+        <content type="html"><![CDATA[10. logical 자료형]]></content>
+        <published>2025-05-01T08:42:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09.3 두 종류의 논리 연산자와 short-circuit | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/283955</id>
+        <link href="https://wikidocs.net/283955"/>
+        <updated>2025-05-01T08:31:07.000Z</updated>
+        <summary type="html"><![CDATA[09.3 두 종류의 논리 연산자와 short-circuit]]></summary>
+        <content type="html"><![CDATA[09.3 두 종류의 논리 연산자와 short-circuit]]></content>
+        <published>2025-05-01T08:31:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09.2 논리 연산자 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/283840</id>
+        <link href="https://wikidocs.net/283840"/>
+        <updated>2025-04-30T16:05:44.000Z</updated>
+        <summary type="html"><![CDATA[09.2 논리 연산자]]></summary>
+        <content type="html"><![CDATA[09.2 논리 연산자]]></content>
+        <published>2025-04-30T16:05:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python과 MATLAB 함께 사용하기 - AI 모델 변환 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=hSM4vjiwNTQ</id>
+        <link href="https://www.youtube.com/watch?v=hSM4vjiwNTQ"/>
+        <updated>2025-04-30T05:00:43.000Z</updated>
+        <published>2025-04-30T05:00:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python과 MATLAB 함께 사용하기 - 공동 실행 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=6wvenP8B-54</id>
+        <link href="https://www.youtube.com/watch?v=6wvenP8B-54"/>
+        <updated>2025-04-30T05:00:07.000Z</updated>
+        <published>2025-04-30T05:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09.1 비교 연산자 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/283828</id>
+        <link href="https://wikidocs.net/283828"/>
+        <updated>2025-04-29T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[09.1 비교 연산자]]></summary>
+        <content type="html"><![CDATA[09.1 비교 연산자]]></content>
+        <published>2025-04-29T10:19:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.2 if문 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278471</id>
+        <link href="https://wikidocs.net/278471"/>
+        <updated>2025-04-29T09:38:40.000Z</updated>
+        <summary type="html"><![CDATA[8.2 if문]]></summary>
+        <content type="html"><![CDATA[8.2 if문]]></content>
+        <published>2025-04-29T09:38:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.4 if-elseif-else문 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278504</id>
+        <link href="https://wikidocs.net/278504"/>
+        <updated>2025-04-29T09:34:51.000Z</updated>
+        <summary type="html"><![CDATA[8.4 if-elseif-else문]]></summary>
+        <content type="html"><![CDATA[8.4 if-elseif-else문]]></content>
+        <published>2025-04-29T09:34:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09. 비교 연산과 논리 연산 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/279092</id>
+        <link href="https://wikidocs.net/279092"/>
+        <updated>2025-04-29T08:57:25.000Z</updated>
+        <summary type="html"><![CDATA[09. 비교 연산과 논리 연산]]></summary>
+        <content type="html"><![CDATA[09. 비교 연산과 논리 연산]]></content>
+        <published>2025-04-29T08:57:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.1 조건문이 필요한 이유 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278132</id>
+        <link href="https://wikidocs.net/278132"/>
+        <updated>2025-04-29T08:38:45.000Z</updated>
+        <summary type="html"><![CDATA[8.1 조건문이 필요한 이유]]></summary>
+        <content type="html"><![CDATA[8.1 조건문이 필요한 이유]]></content>
+        <published>2025-04-29T08:38:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 활용한 Low Code AI 모델링 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=bZx1ltRcemo</id>
+        <link href="https://www.youtube.com/watch?v=bZx1ltRcemo"/>
+        <updated>2025-04-28T05:00:48.000Z</updated>
+        <published>2025-04-28T05:00:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB을 활용한 Low Code 데이터 분석 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=C5_8_HkFZnU</id>
+        <link href="https://www.youtube.com/watch?v=C5_8_HkFZnU"/>
+        <updated>2025-04-28T05:00:20.000Z</updated>
+        <published>2025-04-28T05:00:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 테스트 메트릭을 통한 성공 측정 방법 | 소프트웨어 테스트, 파트 4 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=7x8z68ydFXs</id>
+        <link href="https://www.youtube.com/watch?v=7x8z68ydFXs"/>
+        <updated>2025-04-23T05:00:07.000Z</updated>
+        <published>2025-04-23T05:00:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보자를 위한 소프트웨어 테스트 전략 | 소프트웨어 테스트, 파트 3 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=60quVQ6rr94</id>
+        <link href="https://www.youtube.com/watch?v=60quVQ6rr94"/>
+        <updated>2025-04-21T05:00:12.000Z</updated>
+        <published>2025-04-21T05:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항공기 엘리베이터 제어 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 6 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=m6FnvU9OnjQ</id>
+        <link href="https://www.youtube.com/watch?v=m6FnvU9OnjQ"/>
+        <updated>2025-04-16T05:00:54.000Z</updated>
+        <published>2025-04-16T05:00:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결함 허용 연료 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 5 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=0PziUDAudxw</id>
+        <link href="https://www.youtube.com/watch?v=0PziUDAudxw"/>
+        <updated>2025-04-16T05:00:01.000Z</updated>
+        <published>2025-04-16T05:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어가 알아야 할 소프트웨어 테스트의 7가지 주요 유형 | 소프트웨어 테스트, 파트 2 | MATLAB Korea]]></title>
+        <id>https://www.youtube.com/watch?v=LFiWbFLYkxA</id>
+        <link href="https://www.youtube.com/watch?v=LFiWbFLYkxA"/>
+        <updated>2025-04-14T05:00:19.000Z</updated>
+        <published>2025-04-14T05:00:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MATLAB 대학생 AI 경진대회 2025] 대학생/ 대학원생 누구나 참가 가능! 200만원 상금에 도전하세요. | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223811468274</id>
+        <link href="https://blog.naver.com/matlablove/223811468274"/>
+        <updated>2025-04-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[매스웍스코리아가 제 5회 'MATLAB 대학생 AI 경진대회'를 개최합니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회입니다. MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하시고, 우승 상금 200만원의 주인공이 되어보세요! 지원 자격 대학교에 재학 중인 학부생 또]]></summary>
+        <content type="html"><![CDATA[매스웍스코리아가 제 5회 'MATLAB 대학생 AI 경진대회'를 개최합니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회입니다. MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하시고, 우승 상금 200만원의 주인공이 되어보세요! 지원 자격 대학교에 재학 중인 학부생 또는 대학원생 (전공은 무관하나 재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 참가 안내 [예선: 참가 신청] MATLAB을 사용 한 AI 애플리케이션 및 모델 소개 접수 기한: 2025년 5월 30일 오후 6시까지 [본선: 영상 제출] 주제에 대한 설명 및 구현 방식, MATLAB 활용 내용에 대해 YouTube.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="MATLAB AI 경진대회"/>
+        <published>2025-04-10T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11.3 switch-case문 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278796</id>
+        <link href="https://wikidocs.net/278796"/>
+        <updated>2025-03-20T07:32:16.000Z</updated>
+        <summary type="html"><![CDATA[11.3 switch-case문]]></summary>
+        <content type="html"><![CDATA[11.3 switch-case문]]></content>
+        <published>2025-03-20T07:32:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11. 조건문의 응용 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/279094</id>
+        <link href="https://wikidocs.net/279094"/>
+        <updated>2025-03-20T07:32:03.000Z</updated>
+        <summary type="html"><![CDATA[11. 조건문의 응용]]></summary>
+        <content type="html"><![CDATA[11. 조건문의 응용]]></content>
+        <published>2025-03-20T07:32:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.3 if-else문 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278503</id>
+        <link href="https://wikidocs.net/278503"/>
+        <updated>2025-03-19T08:50:07.000Z</updated>
+        <summary type="html"><![CDATA[8.3 if-else문]]></summary>
+        <content type="html"><![CDATA[8.3 if-else문]]></content>
+        <published>2025-03-19T08:50:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB AI 모델 챌린지 - 최종 발표 및 수상자 인터뷰 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223799012585</id>
+        <link href="https://blog.naver.com/matlablove/223799012585"/>
+        <updated>2025-03-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이]]></summary>
+        <content type="html"><![CDATA[지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이 블로그 글에서는 수상자들의 뛰어난 작품을 조명하고, 그들 중 MathWorks상 수상자의 성공 비결과 도전 과정을 알아보는 인터뷰를 통해 AI 모델 개발의 인사이트를 공유하고자 합니다. MATLAB AI 모델 챌린지 수상작 확인하기 MathWorks상 수상자 인터뷰 간략한 자기소개를 해주세요. 제 이름은.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="머신러닝과 딥러닝"/>
+        <published>2025-03-18T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40585 = 4! + 0! + 5! + 8! + 5! | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/305</id>
+        <link href="https://lazymatlab.tistory.com/305"/>
+        <updated>2025-03-16T13:32:27.000Z</updated>
+        <summary type="html"><![CDATA[https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if ]]></summary>
+        <content type="html"><![CDATA[https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if i == sum(factorial(list)) fprintf('%d = ', i) for n = 1:length(list)-1 fprintf('%d! + ', list(n)) end fprintf('%d!\n', list(end)) keyboard endend 1 = 1!2 = 2!145 = 1! + 4! + 5!40585 = 4! + 0! + 5! + 8! + 5! 이 이후로는 370만까지 나오지 않았다. 9!는 기껏해야 362880이므로 이 이후로는 나오지 않는다. 끗]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="matlab"/>
+        <published>2025-03-16T13:32:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[08. 조건문 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/278131</id>
+        <link href="https://wikidocs.net/278131"/>
+        <updated>2025-03-10T12:20:25.000Z</updated>
+        <summary type="html"><![CDATA[08. 조건문]]></summary>
+        <content type="html"><![CDATA[08. 조건문]]></content>
+        <published>2025-03-10T12:20:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.5 다양한 3차원 그래프들 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/276305</id>
+        <link href="https://wikidocs.net/276305"/>
+        <updated>2025-03-06T07:52:56.000Z</updated>
+        <summary type="html"><![CDATA[7.5 다양한 3차원 그래프들]]></summary>
+        <content type="html"><![CDATA[7.5 다양한 3차원 그래프들]]></content>
+        <published>2025-03-06T07:52:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.4 면 그래프의 이해 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/276015</id>
+        <link href="https://wikidocs.net/276015"/>
+        <updated>2025-03-06T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[7.4 면 그래프의 이해]]></summary>
+        <content type="html"><![CDATA[7.4 면 그래프의 이해]]></content>
+        <published>2025-03-06T06:43:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/261784</id>
+        <link href="https://wikidocs.net/261784"/>
+        <updated>2025-02-11T08:31:46.000Z</updated>
+        <summary type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></summary>
+        <content type="html"><![CDATA[6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기]]></content>
+        <published>2025-02-11T08:31:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.3 면 그래프의 속성 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/273988</id>
+        <link href="https://wikidocs.net/273988"/>
+        <updated>2025-02-10T23:34:28.000Z</updated>
+        <summary type="html"><![CDATA[7.3 면 그래프의 속성]]></summary>
+        <content type="html"><![CDATA[7.3 면 그래프의 속성]]></content>
+        <published>2025-02-10T23:34:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윈도우 10 설정 및 제어판이 안 열릴 때 | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/304</id>
+        <link href="https://lazymatlab.tistory.com/304"/>
+        <updated>2025-02-10T03:57:37.000Z</updated>
+        <summary type="html"><![CDATA[unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하]]></summary>
+        <content type="html"><![CDATA[unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하는 방법현재 이용 중인 컴퓨터에서 발생 중인 에러가 윈도우 자체에서 발생하는 문제라 생각된다면 다른 방법을 시도하기 전에 dism 복구 명령어를 이용하는 방법을 우선적으로 시도해보는 것이 좋다.comformation.tistory.com https://comformation.tistory.com/36 윈도우10 설정 안열림(앱 먹통, 실행 안됨) 문제, 해결 방법윈도우에서 자주 사용되는 대부분의 설정 값들은 설정 앱을 통해 변경해볼 수 있다. 그런데, 간혹 이런 것들의 제어를 위해 설정을 실행하려 해도 아예 열리지 않는 문제가 있는]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="something else"/>
+        <published>2025-02-10T03:57:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS studio에서 녹화 일시 중지하고 싶을 때 | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/303</id>
+        <link href="https://lazymatlab.tistory.com/303"/>
+        <updated>2025-02-10T03:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-rec]]></summary>
+        <content type="html"><![CDATA[Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-recording-button.140031/]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="something else"/>
+        <category label="obs studio"/>
+        <published>2025-02-10T03:46:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.1 3차원 선 그래프 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/272034</id>
+        <link href="https://wikidocs.net/272034"/>
+        <updated>2025-01-23T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[7.1 3차원 선 그래프]]></summary>
+        <content type="html"><![CDATA[7.1 3차원 선 그래프]]></content>
+        <published>2025-01-23T15:16:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.2 3차원 면 그래프 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/272222</id>
+        <link href="https://wikidocs.net/272222"/>
+        <updated>2025-01-22T05:30:28.000Z</updated>
+        <summary type="html"><![CDATA[7.2 3차원 면 그래프]]></summary>
+        <content type="html"><![CDATA[7.2 3차원 면 그래프]]></content>
+        <published>2025-01-22T05:30:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic properties of group homomorphism | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/302</id>
+        <link href="https://lazymatlab.tistory.com/302"/>
+        <updated>2025-01-22T00:59:17.000Z</updated>
+        <summary type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; Suppose $f: G \to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity pres]]></summary>
+        <content type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; Suppose $f: G \to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity preservation: $f(e) = e'$ pf) $\forall g\in G, f(g) = f(e\,g) = f(e) f(g)$. Thus $f(e) = e'$. 2. Inverse preservation: $\forall g\in G, f(g^{-1}) = f(g)^{-1}$ pf) $\forall g\in G, e' = f(e) = f(g\,g^{-1}) = f(g) f(g^{-1})$. Thus $f(g)^{-1} = f(g^{-1})$. 3. Kernel is a normal subgroup: $\ker f \trianglel]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="mathe"/>
+        <category label="abstract algebra"/>
+        <category label="group homomorphism"/>
+        <category label="group theory"/>
+        <category label="kernel"/>
+        <category label="normal subgroup"/>
+        <published>2025-01-22T00:59:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넘파이와 파이썬의 정수 표현 범위 | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/301</id>
+        <link href="https://lazymatlab.tistory.com/301"/>
+        <updated>2025-01-21T11:53:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &amp;gt;&amp;gt;&amp;gt; import numpy as np&amp;gt;&amp;gt;&amp;gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 4790016]]></summary>
+        <content type="html"><![CDATA[https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &amp;gt;&amp;gt;&amp;gt; import numpy as np&amp;gt;&amp;gt;&amp;gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 479001600, 6227020800, 87178291200, 1307674368000, 20922789888000, 355687428096000, 6402373705728000, 121645100408832000, 2432902008176640000, -4249290049419214848, -1250660718674968576, 8128291617894825984, -7835185981329244160, 7034535277573963776, -1569523520172457984, -5483646897237262336, -59681605329]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="python"/>
+        <category label="넘파이"/>
+        <category label="오버플로우"/>
+        <category label="정수"/>
+        <category label="파이썬"/>
+        <published>2025-01-21T11:53:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MATLAB AI 모델 챌린지] AI 모델 다운받고 기프티콘 받아가세요! | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223727742822</id>
+        <link href="https://blog.naver.com/matlablove/223727742822"/>
+        <updated>2025-01-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘]]></summary>
+        <content type="html"><![CDATA[MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘을 제공해드립니다. 또한, 가장 많이 다운로드 받은 모델 및 높은 별점을 받은 모델의 참가자에게는 우승 상금이 주어집니다. MATLAB AI 모델 챌린지에 제출된 모델을 다운받고 커피 기프티콘 받아가세요. 이벤트 일정 ~ 2025년 1월 31일 : 모델 다운로드 및 별점 프로모션 진행 2025년 2월 27일: 수.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="머신러닝과 딥러닝"/>
+        <published>2025-01-21T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[matlab] 행렬 변환 (n*3 &amp;amp;rarr; a*b) | 허밍]]></title>
+        <id>https://hummingstereo.tistory.com/89</id>
+        <link href="https://hummingstereo.tistory.com/89"/>
+        <updated>2025-01-13T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[서론n*3 되어있는 자료(예: x,y,z 형식의 수심자료)를 aXb형태의 2차원 행렬로 변환하는 방법을 제시한다.이 방법은 산정도 형식의 자료가 아닌, 동일한 간격의 x,y 격자형 구조를 가지는 자료에 적용 가능하다.방법1. x,y의 각 좌표의 고유값 추출하여 격자의 기준 축 구성2. 각 자료 지점이 기준축에 해당하는 x,y 인덱스 값 추출3. 추출한 기준]]></summary>
+        <content type="html"><![CDATA[서론n*3 되어있는 자료(예: x,y,z 형식의 수심자료)를 aXb형태의 2차원 행렬로 변환하는 방법을 제시한다.이 방법은 산정도 형식의 자료가 아닌, 동일한 간격의 x,y 격자형 구조를 가지는 자료에 적용 가능하다.방법1. x,y의 각 좌표의 고유값 추출하여 격자의 기준 축 구성2. 각 자료 지점이 기준축에 해당하는 x,y 인덱스 값 추출3. 추출한 기준 축을 바탕으로 x,y 격자 프레임 생성4-1. 전체 격자 행렬을 NaN 값으로 정의하여, 자료가 없는지점을 표시4-2. 추출한 인덱스를 sub2ind 함수를 사용하여 1차원 인덱스로 변환 후, 해당위치의 수심값을 삽입* sub2ind2차원 또는 다차원 행렬의 행, 열 인덱스를 1차원 인덱스로 변환하는 함수코드 % 자료 불러오기 origin.data = load('depth_data.csv');origin.x = origin.data(:,1);origin.y = origin.data(:,2);origin.z = origin.data]]></content>
+        <author>
+            <name>humming_stereo</name>
+        </author>
+        <category label="matlab"/>
+        <published>2025-01-13T07:52:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HORIZON] 전구의 불은 켜질까? | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/300</id>
+        <link href="https://lazymatlab.tistory.com/300"/>
+        <updated>2025-01-13T05:14:58.000Z</updated>
+        <summary type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. ]]></summary>
+        <content type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. https://horizon.kias.re.kr/30621/ 전구는 위 그림처럼 아래 두 전구가 다르면 꺼지고 같으면 켜진다. 곰곰이 생각해보니 홀짝성 문제임을 알 수 있었다. (짝, 짝)이거나 (홀, 홀)이면 켜지고, 그 외에는 꺼진다. 즉, 합이 짝이면 켜지고 합이 홀이면 꺼진다. 문제는 다음과 같다. 2049층짜리 트리를 만들고, 1층 전구 상태를 원주율에 따라 결정한다. 1층의 n번째 전구는 원주율 소수점 아래 n번째 자리 숫자가 홀수이면 끄고 짝수이면 켠다. 이 트리의 맨 윗층 전구는 켜질까, 꺼질까? 원주율의 모든 숫자를]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="mathe"/>
+        <category label="Horizon"/>
+        <category label="수학퍼즐"/>
+        <published>2025-01-13T05:14:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sum of uncountably many positive numbers is always infinite. | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/299</id>
+        <link href="https://lazymatlab.tistory.com/299"/>
+        <updated>2025-01-13T04:38:02.000Z</updated>
+        <summary type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; pixabay Suppose a set $X = \{x_{\alpha} &amp;gt; 0 | \alpha \in I\}$ is an uncountable set. We will show that the sum of all elements of $X$ is ]]></summary>
+        <content type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; pixabay Suppose a set $X = \{x_{\alpha} &amp;gt; 0 | \alpha \in I\}$ is an uncountable set. We will show that the sum of all elements of $X$ is infinite. Consider the family of the following sets. $$ S_n := \left\{ x_{\alpha} \in X \; \mid \; x_{\alpha} \ge \frac{1}{n} \right\} $$ Then $$\bigcup_{n\in \mathbb{N}} S_n = X$$ $X$ is uncountable, so there exists $n_0 \in \mathbb{N}$ such that $S_{n_0}$ is an infinite set. Since the sum of all e]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="mathe"/>
+        <category label="Analysis"/>
+        <category label="infinite"/>
+        <category label="무한"/>
+        <category label="해석학"/>
+        <published>2025-01-13T04:38:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이썬 중고급 스킬들 | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/298</id>
+        <link href="https://lazymatlab.tistory.com/298"/>
+        <updated>2025-01-10T05:45:05.000Z</updated>
+        <summary type="html"><![CDATA[pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&amp;gt;&amp;gt;&amp;gt; a = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; b = a&amp;gt;&amp;gt;&amp;gt; a == bTrue&amp;gt;&amp;gt;&amp;gt; a is bTrue&amp;gt;&amp;gt;&amp;gt; c = [1, 2, 3]]></summary>
+        <content type="html"><![CDATA[pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&amp;gt;&amp;gt;&amp;gt; a = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; b = a&amp;gt;&amp;gt;&amp;gt; a == bTrue&amp;gt;&amp;gt;&amp;gt; a is bTrue&amp;gt;&amp;gt;&amp;gt; c = [1, 2, 3]&amp;gt;&amp;gt;&amp;gt; a == cTrue&amp;gt;&amp;gt;&amp;gt; a is cFalse&amp;gt;&amp;gt;&amp;gt; unpacking operator*는 시퀀스를 요소를 하나씩 풀어서 전달한다. **는 딕셔너리의 키-밸류 쌍을 풀어서 전달한다.&amp;gt;&amp;gt;&amp;gt; l = [1, 3, 2, 4]&amp;gt;&amp;gt;&amp;gt; print(*l)1 3 2 4&amp;gt;&amp;gt;&amp;gt; d = {0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; print(*d)0 1 2&amp;gt;&amp;gt;&amp;gt; d = {0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; {**d}{0: 'zero', 1: 'one', 2: 'two'}&amp;gt;&amp;gt;&amp;gt; {**d, 4:'four'}]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="python"/>
+        <category label="고급"/>
+        <category label="중급"/>
+        <category label="파이썬"/>
+        <published>2025-01-10T05:45:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능 개발을 위해 MATLAB과 Python 함께 사용하기 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223719722651</id>
+        <link href="https://blog.naver.com/matlablove/223719722651"/>
+        <updated>2025-01-09T02:03:43.000Z</updated>
+        <summary type="html"><![CDATA[많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MA]]></summary>
+        <content type="html"><![CDATA[많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MATLAB을 사용하는 경우가 많습니다. MATLAB은 과학 및 공학 분야의 Technical Computing 애플리케이션에 최적화되어 있어 개발 시간을 절약할 수 있게 도와주며 내장된 앱과 ‘Live Task’는 코딩을 최소화할 수 있게 해 줍니다. 공학 및 과학 애플리케이션이 여러 기술을 필요로 할 때, ‘MATLAB과 Python 간의 상호 운용성.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="머신러닝과 딥러닝"/>
+        <published>2025-01-09T02:03:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07. 3차원 그래프 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/272022</id>
+        <link href="https://wikidocs.net/272022"/>
+        <updated>2025-01-07T02:26:01.000Z</updated>
+        <summary type="html"><![CDATA[07. 3차원 그래프]]></summary>
+        <content type="html"><![CDATA[07. 3차원 그래프]]></content>
+        <published>2025-01-07T02:26:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler-Phi Function | 게으른맽랩 lazy matlab]]></title>
+        <id>https://lazymatlab.tistory.com/297</id>
+        <link href="https://lazymatlab.tistory.com/297"/>
+        <updated>2025-01-06T12:17:49.000Z</updated>
+        <summary type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\gcd(mn, x) = 1$(b) $\gcd(m, x) =]]></summary>
+        <content type="html"><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\gcd(mn, x) = 1$(b) $\gcd(m, x) = 1$ and $\gcd(n, x) = 1$(c) $\gcd(m, a) = 1$ and $\gcd(n, b) = 1$ where $a$ and $b$ are remainders of $x$ divided by $m$ and $n$, respectively.[Def] $\mathbb{U}_n := \{x\in \mathbb{Z} \;|\; 0 \le x &amp;lt; n, \gcd(n, x) = 1 \}$Given two coprime positive integers $m$, $n$, define a function\begin{align}f: ]]></content>
+        <author>
+            <name>게으른 the lazy</name>
+        </author>
+        <category label="mathe"/>
+        <category label="euler-phi"/>
+        <published>2025-01-06T12:17:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.6 다양한 그래프들 | 게으른쌤의 매트랩]]></title>
+        <id>https://wikidocs.net/268766</id>
+        <link href="https://wikidocs.net/268766"/>
+        <updated>2025-01-05T06:25:26.000Z</updated>
+        <summary type="html"><![CDATA[6.6 다양한 그래프들]]></summary>
+        <content type="html"><![CDATA[6.6 다양한 그래프들]]></content>
+        <published>2025-01-05T06:25:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB으로 자율주행의 미래를 그리다: 세종대 AIV 팀의 우승 스토리 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+        <id>https://blog.naver.com/matlablove/223697455164</id>
+        <link href="https://blog.naver.com/matlablove/223697455164"/>
+        <updated>2024-12-20T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. ]]></summary>
+        <content type="html"><![CDATA[오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. 이 부문에서 학생들은 실제와 가까운 시뮬레이터에 직접 개발한 자율주행 알고리즘을 탑재해 경쟁하게 됩니다. 올해는 세종대학교 AIV 팀이 뛰어난 성과를 거두며 우승을 차지했습니다. 세종대 AIV 팀원들은 특히, MATLAB을 활용한 알고리즘 프로토타이핑과 데이터 시각화 기능이 대회 준비에 큰 도움이 되었다고 우승 후기를 전합니.......]]></content>
+        <author>
+            <name>matlablove</name>
+        </author>
+        <category label="학교/대학지원"/>
+        <published>2024-12-20T05:00:00.000Z</published>
+    </entry>
+</feed>

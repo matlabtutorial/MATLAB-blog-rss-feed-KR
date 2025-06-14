@@ -1,0 +1,1229 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MATLAB 블로그 RSS",
+    "home_page_url": "https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/",
+    "feed_url": "https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/feeds/feed.json",
+    "description": "MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드",
+    "icon": "https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.youtube.com/watch?v=RaFasoUi1cQ",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=RaFasoUi1cQ",
+            "title": "화물선에 패러세일을 달면 범선이 될 수 있을까요? | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/RaFasoUi1cQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgWShyMA8=&rs=AOn4CLCJ9Bit-Rm8RMk1uRIWNvKlRmY51A",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-06-11T05:00:23.000Z",
+            "date_published": "2025-06-11T05:00:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "화물선에 패러세일을 달면 범선이 될 수 있을까요?",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=p4i1QqK3WFw",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=p4i1QqK3WFw",
+            "title": "MATLAB으로 선형시스템의 해를 구하는 방법 | 선형대수학의 행렬방법, 파트 3-4 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/p4i1QqK3WFw/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-05-21T05:00:52.000Z",
+            "date_published": "2025-05-21T05:00:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB으로 선형시스템의 해를 구하는 방법 | 선형대수학의 행렬방법, 파트 3-4",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=m1kexyeFe_Y",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=m1kexyeFe_Y",
+            "title": "MATLAB을 사용한 딥러닝: 10줄의 코드로 수행하는 전이 학습 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/m1kexyeFe_Y/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-05-19T05:01:00.000Z",
+            "date_published": "2025-05-19T05:01:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB을 사용한 딥러닝: 10줄의 코드로 수행하는 전이 학습",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223838535306",
+            "content_html": "2023년 현대자동차그룹이 개최한 자율주행챌린지 대회는 실제 차량이 도로와 주변 환경을 실시간으로 인식하고 다양한 미션을 수행하는 세계 최초의 실차 기반 자율주행 레이싱 대회였습니다. 이 대회에서 한양대학교 조기춘 교수팀(당시 건국대학교 소속)은 뛰어난 자율주행 기술과 혁신적인 MATLAB 활용으로 우승을 차지했습니다. 조기춘 교수팀은 대회에서 MATLAB을 객체 추적과 같은 중요한 작업에 활용하였으며, 데이터 및 알고리즘 검증 과정을 개선하기 위해 MATLAB App을 사용한 효과적인 검증 도구를 개발하여 활용하였습니다. 이 성과는 2024년 MATLAB EXPO Korea에서 소개되기도 했습니다. MATLAB을 통한 자율주행 알고리즘 개발 및 적.......",
+            "url": "https://blog.naver.com/matlablove/223838535306",
+            "title": "MATLAB과 자율주행의 완벽한 만남 | 2023 현대자동차그룹 자율주행챌린지 우승 스토리 | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "2023년 현대자동차그룹이 개최한 자율주행챌린지 대회는 실제 차량이 도로와 주변 환경을 실시간으로 인식하고 다양한 미션을 수행하는 세계 최초의 실차 기반 자율주행 레이싱 대회였습니다. 이 대회에서 한양대학교 조기춘 교수팀(당시 건국대학교 소속)은 뛰어난 자율주행 기술과 혁신적인 MATLAB 활용으로 우승을 차지했습니다. 조기춘 교수팀은 대회에서 MATLAB",
+            "date_modified": "2025-05-15T05:00:00.000Z",
+            "date_published": "2025-05-15T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "고객활용사례"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB과 자율주행의 완벽한 만남 | 2023 현대자동차그룹 자율주행챌린지 우승 스토리",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=mEsLsAlekaM",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=mEsLsAlekaM",
+            "title": "Signal Analyzer 앱으로 간편해진 신호 분석 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/mEsLsAlekaM/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-05-14T05:01:00.000Z",
+            "date_published": "2025-05-14T05:01:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Signal Analyzer 앱으로 간편해진 신호 분석",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=D_A9ox5nCHk",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=D_A9ox5nCHk",
+            "title": "MATLAB을 사용하는 양자 신경망(QNN) | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/D_A9ox5nCHk/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-05-12T05:00:14.000Z",
+            "date_published": "2025-05-12T05:00:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB을 사용하는 양자 신경망(QNN)",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223857755832",
+            "content_html": "MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하는 매스웍스코리아 주최 'MATLAB 대학생 AI 경진대회'가 올해 5회를 맞이했습니다. 대학교에 재학중인 누구나 지원 가능! 대학교에 재학 중인 학부생 또는 대학원생 (재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 팀원 수 제한 없음 참가 방법과 기한 [예선: 참가 신청] MATLAB을 사용 한 AI 애플리케이션 및 모델 소개 접수 기한: 2025년 5월 30일 오후 6시까지 접수 방법: 포스팅 하단에 링크된 경진대회 웹페이지를 통해 접수 [본선: 영상 제출] 주제에 대한 설명 및 구현 방식, MATLAB 활용 내용에 대해 YouTube 영상 제출 접수 기한: 2025년.......",
+            "url": "https://blog.naver.com/matlablove/223857755832",
+            "title": "[MATLAB 대학생 AI 경진대회 2025] 5/30 접수 마감 | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하는 매스웍스코리아 주최 'MATLAB 대학생 AI 경진대회'가 올해 5회를 맞이했습니다. 대학교에 재학중인 누구나 지원 가능! 대학교에 재학 중인 학부생 또는 대학원생 (재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 팀원 수 제한 없음 참가 방법과 기한 [예선: ",
+            "date_modified": "2025-05-08T05:00:00.000Z",
+            "date_published": "2025-05-08T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "MATLAB AI 경진대회"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[MATLAB 대학생 AI 경진대회 2025] 5/30 접수 마감",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=T86lGpeyFuA",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=T86lGpeyFuA",
+            "title": "항공기 설계를 위한 제약 조건 분석 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/T86lGpeyFuA/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-05-07T05:00:35.000Z",
+            "date_published": "2025-05-07T05:00:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "항공기 설계를 위한 제약 조건 분석",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/279093",
+            "content_html": "10. logical 자료형",
+            "url": "https://wikidocs.net/279093",
+            "title": "10. logical 자료형 | 게으른쌤의 매트랩",
+            "summary": "10. logical 자료형",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-05-01T08:42:22.000Z",
+            "date_published": "2025-05-01T08:42:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "10. logical 자료형",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/283955",
+            "content_html": "09.3 두 종류의 논리 연산자와 short-circuit",
+            "url": "https://wikidocs.net/283955",
+            "title": "09.3 두 종류의 논리 연산자와 short-circuit | 게으른쌤의 매트랩",
+            "summary": "09.3 두 종류의 논리 연산자와 short-circuit",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-05-01T08:31:07.000Z",
+            "date_published": "2025-05-01T08:31:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "09.3 두 종류의 논리 연산자와 short-circuit",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/283840",
+            "content_html": "09.2 논리 연산자",
+            "url": "https://wikidocs.net/283840",
+            "title": "09.2 논리 연산자 | 게으른쌤의 매트랩",
+            "summary": "09.2 논리 연산자",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-30T16:05:44.000Z",
+            "date_published": "2025-04-30T16:05:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "09.2 논리 연산자",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=hSM4vjiwNTQ",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=hSM4vjiwNTQ",
+            "title": "Python과 MATLAB 함께 사용하기 - AI 모델 변환 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/hSM4vjiwNTQ/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-30T05:00:43.000Z",
+            "date_published": "2025-04-30T05:00:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Python과 MATLAB 함께 사용하기 - AI 모델 변환",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=6wvenP8B-54",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=6wvenP8B-54",
+            "title": "Python과 MATLAB 함께 사용하기 - 공동 실행 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/6wvenP8B-54/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-30T05:00:07.000Z",
+            "date_published": "2025-04-30T05:00:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Python과 MATLAB 함께 사용하기 - 공동 실행",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/283828",
+            "content_html": "09.1 비교 연산자",
+            "url": "https://wikidocs.net/283828",
+            "title": "09.1 비교 연산자 | 게으른쌤의 매트랩",
+            "summary": "09.1 비교 연산자",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-29T10:19:14.000Z",
+            "date_published": "2025-04-29T10:19:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "09.1 비교 연산자",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278471",
+            "content_html": "8.2 if문",
+            "url": "https://wikidocs.net/278471",
+            "title": "8.2 if문 | 게으른쌤의 매트랩",
+            "summary": "8.2 if문",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-29T09:38:40.000Z",
+            "date_published": "2025-04-29T09:38:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "8.2 if문",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278504",
+            "content_html": "8.4 if-elseif-else문",
+            "url": "https://wikidocs.net/278504",
+            "title": "8.4 if-elseif-else문 | 게으른쌤의 매트랩",
+            "summary": "8.4 if-elseif-else문",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-29T09:34:51.000Z",
+            "date_published": "2025-04-29T09:34:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "8.4 if-elseif-else문",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/279092",
+            "content_html": "09. 비교 연산과 논리 연산",
+            "url": "https://wikidocs.net/279092",
+            "title": "09. 비교 연산과 논리 연산 | 게으른쌤의 매트랩",
+            "summary": "09. 비교 연산과 논리 연산",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-29T08:57:25.000Z",
+            "date_published": "2025-04-29T08:57:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "09. 비교 연산과 논리 연산",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278132",
+            "content_html": "8.1 조건문이 필요한 이유",
+            "url": "https://wikidocs.net/278132",
+            "title": "8.1 조건문이 필요한 이유 | 게으른쌤의 매트랩",
+            "summary": "8.1 조건문이 필요한 이유",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-04-29T08:38:45.000Z",
+            "date_published": "2025-04-29T08:38:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "8.1 조건문이 필요한 이유",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=bZx1ltRcemo",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=bZx1ltRcemo",
+            "title": "MATLAB을 활용한 Low Code AI 모델링 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/bZx1ltRcemo/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-28T05:00:48.000Z",
+            "date_published": "2025-04-28T05:00:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB을 활용한 Low Code AI 모델링",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=C5_8_HkFZnU",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=C5_8_HkFZnU",
+            "title": "MATLAB을 활용한 Low Code 데이터 분석 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/C5_8_HkFZnU/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-28T05:00:20.000Z",
+            "date_published": "2025-04-28T05:00:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB을 활용한 Low Code 데이터 분석",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=7x8z68ydFXs",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=7x8z68ydFXs",
+            "title": "소프트웨어 테스트 메트릭을 통한 성공 측정 방법 | 소프트웨어 테스트, 파트 4 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/7x8z68ydFXs/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-23T05:00:07.000Z",
+            "date_published": "2025-04-23T05:00:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "소프트웨어 테스트 메트릭을 통한 성공 측정 방법 | 소프트웨어 테스트, 파트 4",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=60quVQ6rr94",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=60quVQ6rr94",
+            "title": "초보자를 위한 소프트웨어 테스트 전략 | 소프트웨어 테스트, 파트 3 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/60quVQ6rr94/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-21T05:00:12.000Z",
+            "date_published": "2025-04-21T05:00:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "초보자를 위한 소프트웨어 테스트 전략 | 소프트웨어 테스트, 파트 3",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=m6FnvU9OnjQ",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=m6FnvU9OnjQ",
+            "title": "항공기 엘리베이터 제어 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 6 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/m6FnvU9OnjQ/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-16T05:00:54.000Z",
+            "date_published": "2025-04-16T05:00:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "항공기 엘리베이터 제어 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 6",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=0PziUDAudxw",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=0PziUDAudxw",
+            "title": "결함 허용 연료 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 5 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/0PziUDAudxw/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-16T05:00:01.000Z",
+            "date_published": "2025-04-16T05:00:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "결함 허용 연료 시스템에서 결함 분석 | Simulink Fault Analyzer 시작하기, 파트 5",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=LFiWbFLYkxA",
+            "content_html": "",
+            "url": "https://www.youtube.com/watch?v=LFiWbFLYkxA",
+            "title": "엔지니어가 알아야 할 소프트웨어 테스트의 7가지 주요 유형 | 소프트웨어 테스트, 파트 2 | MATLAB Korea",
+            "image": {
+                "height": "720",
+                "url": "https://i.ytimg.com/vi/LFiWbFLYkxA/maxresdefault.jpg",
+                "width": "1280",
+                "type": "jpg"
+            },
+            "date_modified": "2025-04-14T05:00:19.000Z",
+            "date_published": "2025-04-14T05:00:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "엔지니어가 알아야 할 소프트웨어 테스트의 7가지 주요 유형 | 소프트웨어 테스트, 파트 2",
+                "blogTitle": "MATLAB Korea",
+                "blogLink": "https://www.youtube.com/channel/UC6Zjgg_0PQBm96aHeiXrjXQ",
+                "blogLinkMd5Hash": "3f385743579914925b7acc4c0c87bfba",
+                "favicon": "https://www.youtube.com/s/desktop/606e092f/img/logos/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223811468274",
+            "content_html": "매스웍스코리아가 제 5회 'MATLAB 대학생 AI 경진대회'를 개최합니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회입니다. MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하시고, 우승 상금 200만원의 주인공이 되어보세요! 지원 자격 대학교에 재학 중인 학부생 또는 대학원생 (전공은 무관하나 재학 증빙이 가능해야 함) 개인 또는 팀으로 참가 가능 참가 안내 [예선: 참가 신청] MATLAB을 사용 한 AI 애플리케이션 및 모델 소개 접수 기한: 2025년 5월 30일 오후 6시까지 [본선: 영상 제출] 주제에 대한 설명 및 구현 방식, MATLAB 활용 내용에 대해 YouTube.......",
+            "url": "https://blog.naver.com/matlablove/223811468274",
+            "title": "[MATLAB 대학생 AI 경진대회 2025] 대학생/ 대학원생 누구나 참가 가능! 200만원 상금에 도전하세요. | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "매스웍스코리아가 제 5회 'MATLAB 대학생 AI 경진대회'를 개최합니다. MATLAB 대학생 AI 경진대회는 인공지능 활용 아이디어를 MATLAB으로 구현해보는 경진대회입니다. MATLAB으로 구현한 여러분의 창의적인 AI 프로젝트를 YouTube 영상으로 제출하시고, 우승 상금 200만원의 주인공이 되어보세요! 지원 자격 대학교에 재학 중인 학부생 또",
+            "date_modified": "2025-04-10T05:00:00.000Z",
+            "date_published": "2025-04-10T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "MATLAB AI 경진대회"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[MATLAB 대학생 AI 경진대회 2025] 대학생/ 대학원생 누구나 참가 가능! 200만원 상금에 도전하세요.",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278796",
+            "content_html": "11.3 switch-case문",
+            "url": "https://wikidocs.net/278796",
+            "title": "11.3 switch-case문 | 게으른쌤의 매트랩",
+            "summary": "11.3 switch-case문",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-20T07:32:16.000Z",
+            "date_published": "2025-03-20T07:32:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "11.3 switch-case문",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/279094",
+            "content_html": "11. 조건문의 응용",
+            "url": "https://wikidocs.net/279094",
+            "title": "11. 조건문의 응용 | 게으른쌤의 매트랩",
+            "summary": "11. 조건문의 응용",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-20T07:32:03.000Z",
+            "date_published": "2025-03-20T07:32:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "11. 조건문의 응용",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278503",
+            "content_html": "8.3 if-else문",
+            "url": "https://wikidocs.net/278503",
+            "title": "8.3 if-else문 | 게으른쌤의 매트랩",
+            "summary": "8.3 if-else문",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-19T08:50:07.000Z",
+            "date_published": "2025-03-19T08:50:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "8.3 if-else문",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223799012585",
+            "content_html": "지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이 블로그 글에서는 수상자들의 뛰어난 작품을 조명하고, 그들 중 MathWorks상 수상자의 성공 비결과 도전 과정을 알아보는 인터뷰를 통해 AI 모델 개발의 인사이트를 공유하고자 합니다. MATLAB AI 모델 챌린지 수상작 확인하기 MathWorks상 수상자 인터뷰 간략한 자기소개를 해주세요. 제 이름은.......",
+            "url": "https://blog.naver.com/matlablove/223799012585",
+            "title": "MATLAB AI 모델 챌린지 - 최종 발표 및 수상자 인터뷰 | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "지난 몇 달 동안 진행되었던 MATLAB AI 모델 챌린지가 성황리에 마무리되었습니다. 이번 챌린지는 자신만의 창의적이고 혁신적인 모델을 AI 모델을 개발하여 File Exchange에 를 통해 전 세계 MATLAB 사용자들과 공유하는 것을 목표로 하였습니다. 좋은 작품을 제출해주신 참가자들이 치열한 경쟁을 펼친 끝에, 드디어 수상자들이 발표되었습니다. 이",
+            "date_modified": "2025-03-18T05:00:00.000Z",
+            "date_published": "2025-03-18T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "머신러닝과 딥러닝"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB AI 모델 챌린지 - 최종 발표 및 수상자 인터뷰",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/305",
+            "content_html": "https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if i == sum(factorial(list)) fprintf('%d = ', i) for n = 1:length(list)-1 fprintf('%d! + ', list(n)) end fprintf('%d!\\n', list(end)) keyboard endend 1 = 1!2 = 2!145 = 1! + 4! + 5!40585 = 4! + 0! + 5! + 8! + 5! 이 이후로는 370만까지 나오지 않았다. 9!는 기껏해야 362880이므로 이 이후로는 나오지 않는다. 끗",
+            "url": "https://lazymatlab.tistory.com/305",
+            "title": "40585 = 4! + 0! + 5! + 8! + 5! | 게으른맽랩 lazy matlab",
+            "summary": "https://www.linkedin.com/posts/fermatslibrary_in-1964-r-dougherty-discovered-the-largest-activity-7276628502387347456-B1v4 의심이 많은 나는 코드로 확인해본다. i = 0;while true i = i + 1; list = num2str(i) - '0'; if ",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkIAMG%2FbtsMMDXIcWa%2F8aH6PKHxkroUjimlePuUP1%2Fimg.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-16T13:32:27.000Z",
+            "date_published": "2025-03-16T13:32:27.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "matlab"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "40585 = 4! + 0! + 5! + 8! + 5!",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/278131",
+            "content_html": "08. 조건문",
+            "url": "https://wikidocs.net/278131",
+            "title": "08. 조건문 | 게으른쌤의 매트랩",
+            "summary": "08. 조건문",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-10T12:20:25.000Z",
+            "date_published": "2025-03-10T12:20:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "08. 조건문",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/276305",
+            "content_html": "7.5 다양한 3차원 그래프들",
+            "url": "https://wikidocs.net/276305",
+            "title": "7.5 다양한 3차원 그래프들 | 게으른쌤의 매트랩",
+            "summary": "7.5 다양한 3차원 그래프들",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-06T07:52:56.000Z",
+            "date_published": "2025-03-06T07:52:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7.5 다양한 3차원 그래프들",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/276015",
+            "content_html": "7.4 면 그래프의 이해",
+            "url": "https://wikidocs.net/276015",
+            "title": "7.4 면 그래프의 이해 | 게으른쌤의 매트랩",
+            "summary": "7.4 면 그래프의 이해",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-03-06T06:43:00.000Z",
+            "date_published": "2025-03-06T06:43:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7.4 면 그래프의 이해",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/261784",
+            "content_html": "6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기",
+            "url": "https://wikidocs.net/261784",
+            "title": "6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기 | 게으른쌤의 매트랩",
+            "summary": "6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-02-11T08:31:46.000Z",
+            "date_published": "2025-02-11T08:31:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "6.3 그래프의 축 범위 및 축 스케일과 그리드 조절하기",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/273988",
+            "content_html": "7.3 면 그래프의 속성",
+            "url": "https://wikidocs.net/273988",
+            "title": "7.3 면 그래프의 속성 | 게으른쌤의 매트랩",
+            "summary": "7.3 면 그래프의 속성",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-02-10T23:34:28.000Z",
+            "date_published": "2025-02-10T23:34:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7.3 면 그래프의 속성",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/304",
+            "content_html": "unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하는 방법현재 이용 중인 컴퓨터에서 발생 중인 에러가 윈도우 자체에서 발생하는 문제라 생각된다면 다른 방법을 시도하기 전에 dism 복구 명령어를 이용하는 방법을 우선적으로 시도해보는 것이 좋다.comformation.tistory.com https://comformation.tistory.com/36 윈도우10 설정 안열림(앱 먹통, 실행 안됨) 문제, 해결 방법윈도우에서 자주 사용되는 대부분의 설정 값들은 설정 앱을 통해 변경해볼 수 있다. 그런데, 간혹 이런 것들의 제어를 위해 설정을 실행하려 해도 아예 열리지 않는 문제가 있는",
+            "url": "https://lazymatlab.tistory.com/304",
+            "title": "윈도우 10 설정 및 제어판이 안 열릴 때 | 게으른맽랩 lazy matlab",
+            "summary": "unsplash 컴퓨터가 이상하면 제어판이나 설정부터 열어보는 것이 인지상정 ...인데 그것이 열리지 않으면 아무것도 할 수 없다. 딱 한 번 그런 적이 있는데, 그때 참고한 곳을 기록 차원으로 남겨둔다. 다행히 해결되었다. https://comformation.tistory.com/12 윈도우10 dism 복구 명령어, 파일 누락 또는 손상 문제를 해결하",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FA8ppp%2FbtsMdKWMXKD%2F2tbuOx672umxfuCxOxZDsk%2Ftfile.avif"
+            },
+            "date_modified": "2025-02-10T03:57:37.000Z",
+            "date_published": "2025-02-10T03:57:37.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "something else"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "윈도우 10 설정 및 제어판이 안 열릴 때",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/303",
+            "content_html": "Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-recording-button.140031/",
+            "url": "https://lazymatlab.tistory.com/303",
+            "title": "OBS studio에서 녹화 일시 중지하고 싶을 때 | 게으른맽랩 lazy matlab",
+            "summary": "Setting - Output - Recording - Recording Quality 이것이 Same as Streaming으로 되어 있으면 녹화 중지가 보이지 않는다.이 옵션을 다른 옵션으로 바꾸면 녹화 중지가 나타난다. 참고한 곳: https://obsproject.com/forum/threads/what-happened-to-the-pause-rec",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdomkW3%2FbtsMbE4OI38%2Fgj3iiPbOMh0xTB2rmvv1xK%2Fimg.png",
+                "type": "png"
+            },
+            "date_modified": "2025-02-10T03:46:34.000Z",
+            "date_published": "2025-02-10T03:46:34.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "something else",
+                "obs studio"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OBS studio에서 녹화 일시 중지하고 싶을 때",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/272034",
+            "content_html": "7.1 3차원 선 그래프",
+            "url": "https://wikidocs.net/272034",
+            "title": "7.1 3차원 선 그래프 | 게으른쌤의 매트랩",
+            "summary": "7.1 3차원 선 그래프",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-23T15:16:24.000Z",
+            "date_published": "2025-01-23T15:16:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7.1 3차원 선 그래프",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/272222",
+            "content_html": "7.2 3차원 면 그래프",
+            "url": "https://wikidocs.net/272222",
+            "title": "7.2 3차원 면 그래프 | 게으른쌤의 매트랩",
+            "summary": "7.2 3차원 면 그래프",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-22T05:30:28.000Z",
+            "date_published": "2025-01-22T05:30:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "7.2 3차원 면 그래프",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/302",
+            "content_html": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; Suppose $f: G \\to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity preservation: $f(e) = e'$ pf) $\\forall g\\in G, f(g) = f(e\\,g) = f(e) f(g)$. Thus $f(e) = e'$. 2. Inverse preservation: $\\forall g\\in G, f(g^{-1}) = f(g)^{-1}$ pf) $\\forall g\\in G, e' = f(e) = f(g\\,g^{-1}) = f(g) f(g^{-1})$. Thus $f(g)^{-1} = f(g^{-1})$. 3. Kernel is a normal subgroup: $\\ker f \\trianglel",
+            "url": "https://lazymatlab.tistory.com/302",
+            "title": "Basic properties of group homomorphism | 게으른맽랩 lazy matlab",
+            "summary": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; Suppose $f: G \\to G'$ is a group homomorphism, and $e$ and $e'$ are the identity elements of $G$ and $G'$, respectively. 1. Identity pres",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fp7Q84%2FbtsL0zpGMxo%2FlcDYkJOntEJBb2KknxpItK%2Fimg.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-22T00:59:17.000Z",
+            "date_published": "2025-01-22T00:59:17.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "mathe",
+                "abstract algebra",
+                "group homomorphism",
+                "group theory",
+                "kernel",
+                "normal subgroup"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Basic properties of group homomorphism",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/301",
+            "content_html": "https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &gt;&gt;&gt; import numpy as np&gt;&gt;&gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 479001600, 6227020800, 87178291200, 1307674368000, 20922789888000, 355687428096000, 6402373705728000, 121645100408832000, 2432902008176640000, -4249290049419214848, -1250660718674968576, 8128291617894825984, -7835185981329244160, 7034535277573963776, -1569523520172457984, -5483646897237262336, -59681605329",
+            "url": "https://lazymatlab.tistory.com/301",
+            "title": "넘파이와 파이썬의 정수 표현 범위 | 게으른맽랩 lazy matlab",
+            "summary": "https://www.thoughtco.com/bigger-than-a-trillion-1857463 아래 코드를 보자. &gt;&gt;&gt; import numpy as np&gt;&gt;&gt; np.cumprod(np.arange(1, 30))array([ 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, 39916800, 4790016",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpZhuN%2FbtsLTQdZCAH%2FzegnbhoHLKvhgymRkPVVnK%2Fimg.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-01-21T11:53:41.000Z",
+            "date_published": "2025-01-21T11:53:41.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "python",
+                "넘파이",
+                "오버플로우",
+                "정수",
+                "파이썬"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "넘파이와 파이썬의 정수 표현 범위",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223727742822",
+            "content_html": "MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘을 제공해드립니다. 또한, 가장 많이 다운로드 받은 모델 및 높은 별점을 받은 모델의 참가자에게는 우승 상금이 주어집니다. MATLAB AI 모델 챌린지에 제출된 모델을 다운받고 커피 기프티콘 받아가세요. 이벤트 일정 ~ 2025년 1월 31일 : 모델 다운로드 및 별점 프로모션 진행 2025년 2월 27일: 수.......",
+            "url": "https://blog.naver.com/matlablove/223727742822",
+            "title": "[MATLAB AI 모델 챌린지] AI 모델 다운받고 기프티콘 받아가세요! | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "MATLAB에서 어떤 AI 모델들이 개발 및 공유 되고 있는지 궁금하지 않으신가요? 챌린지에 참여한 AI 모델을 File Exchange에서 다운받고 마음에 드는 모델에 별점을 주세요. 이벤트에 참여하신 분들은 무료로 AI모델도 무료로 다운받을 수 있을 뿐 아니라, 커피 기프티콘도 받아가실 수 있습니다. 참여하신 분들 중 추첨을 통해 총 100분께 기프티콘",
+            "date_modified": "2025-01-21T05:00:00.000Z",
+            "date_published": "2025-01-21T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "머신러닝과 딥러닝"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[MATLAB AI 모델 챌린지] AI 모델 다운받고 기프티콘 받아가세요!",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://hummingstereo.tistory.com/89",
+            "content_html": "서론n*3 되어있는 자료(예: x,y,z 형식의 수심자료)를 aXb형태의 2차원 행렬로 변환하는 방법을 제시한다.이 방법은 산정도 형식의 자료가 아닌, 동일한 간격의 x,y 격자형 구조를 가지는 자료에 적용 가능하다.방법1. x,y의 각 좌표의 고유값 추출하여 격자의 기준 축 구성2. 각 자료 지점이 기준축에 해당하는 x,y 인덱스 값 추출3. 추출한 기준 축을 바탕으로 x,y 격자 프레임 생성4-1. 전체 격자 행렬을 NaN 값으로 정의하여, 자료가 없는지점을 표시4-2. 추출한 인덱스를 sub2ind 함수를 사용하여 1차원 인덱스로 변환 후, 해당위치의 수심값을 삽입* sub2ind2차원 또는 다차원 행렬의 행, 열 인덱스를 1차원 인덱스로 변환하는 함수코드 % 자료 불러오기 origin.data = load('depth_data.csv');origin.x = origin.data(:,1);origin.y = origin.data(:,2);origin.z = origin.data",
+            "url": "https://hummingstereo.tistory.com/89",
+            "title": "[matlab] 행렬 변환 (n*3 &amp;rarr; a*b) | 허밍",
+            "summary": "서론n*3 되어있는 자료(예: x,y,z 형식의 수심자료)를 aXb형태의 2차원 행렬로 변환하는 방법을 제시한다.이 방법은 산정도 형식의 자료가 아닌, 동일한 간격의 x,y 격자형 구조를 가지는 자료에 적용 가능하다.방법1. x,y의 각 좌표의 고유값 추출하여 격자의 기준 축 구성2. 각 자료 지점이 기준축에 해당하는 x,y 인덱스 값 추출3. 추출한 기준",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-13T07:52:00.000Z",
+            "date_published": "2025-01-13T07:52:00.000Z",
+            "author": {
+                "name": "humming_stereo"
+            },
+            "tags": [
+                "matlab"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[matlab] 행렬 변환 (n*3 &amp;rarr; a*b)",
+                "blogTitle": "허밍",
+                "blogLink": "https://hummingstereo.tistory.com/",
+                "blogLinkMd5Hash": "59e85533b53366ebf398525f3c2d10af",
+                "favicon": "https://hummingstereo.tistory.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/300",
+            "content_html": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. https://horizon.kias.re.kr/30621/ 전구는 위 그림처럼 아래 두 전구가 다르면 꺼지고 같으면 켜진다. 곰곰이 생각해보니 홀짝성 문제임을 알 수 있었다. (짝, 짝)이거나 (홀, 홀)이면 켜지고, 그 외에는 꺼진다. 즉, 합이 짝이면 켜지고 합이 홀이면 꺼진다. 문제는 다음과 같다. 2049층짜리 트리를 만들고, 1층 전구 상태를 원주율에 따라 결정한다. 1층의 n번째 전구는 원주율 소수점 아래 n번째 자리 숫자가 홀수이면 끄고 짝수이면 켠다. 이 트리의 맨 윗층 전구는 켜질까, 꺼질까? 원주율의 모든 숫자를",
+            "url": "https://lazymatlab.tistory.com/300",
+            "title": "[HORIZON] 전구의 불은 켜질까? | 게으른맽랩 lazy matlab",
+            "summary": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; https://horizon.kias.re.kr/30621/ HORIZON의 12월 퍼즐이 재밌어 보여서 풀어봤다. 크리스마스 트리의 전구를 삼각형 모양으로 배치하고, 맨 아래층의 켜짐/꺼짐 상태로부터 맨 위층이 켜질지 꺼질지 예측하는 것이다. ",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7N3hv%2FbtsLLzPUAFj%2FrSoc0RNOQ1SdEgFaMpzsP1%2Fimg.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-01-13T05:14:58.000Z",
+            "date_published": "2025-01-13T05:14:58.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "mathe",
+                "Horizon",
+                "수학퍼즐"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[HORIZON] 전구의 불은 켜질까?",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/299",
+            "content_html": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; pixabay Suppose a set $X = \\{x_{\\alpha} &gt; 0 | \\alpha \\in I\\}$ is an uncountable set. We will show that the sum of all elements of $X$ is infinite. Consider the family of the following sets. $$ S_n := \\left\\{ x_{\\alpha} \\in X \\; \\mid \\; x_{\\alpha} \\ge \\frac{1}{n} \\right\\} $$ Then $$\\bigcup_{n\\in \\mathbb{N}} S_n = X$$ $X$ is uncountable, so there exists $n_0 \\in \\mathbb{N}$ such that $S_{n_0}$ is an infinite set. Since the sum of all e",
+            "url": "https://lazymatlab.tistory.com/299",
+            "title": "Sum of uncountably many positive numbers is always infinite. | 게으른맽랩 lazy matlab",
+            "summary": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; pixabay Suppose a set $X = \\{x_{\\alpha} &gt; 0 | \\alpha \\in I\\}$ is an uncountable set. We will show that the sum of all elements of $X$ is ",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrxCz3%2FbtsLL9QEJVl%2FYosQ67fCPTlUEQDONpjqlK%2Fimg.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-13T04:38:02.000Z",
+            "date_published": "2025-01-13T04:38:02.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "mathe",
+                "Analysis",
+                "infinite",
+                "무한",
+                "해석학"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Sum of uncountably many positive numbers is always infinite.",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/298",
+            "content_html": "pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&gt;&gt;&gt; a = [1, 2, 3]&gt;&gt;&gt; b = a&gt;&gt;&gt; a == bTrue&gt;&gt;&gt; a is bTrue&gt;&gt;&gt; c = [1, 2, 3]&gt;&gt;&gt; a == cTrue&gt;&gt;&gt; a is cFalse&gt;&gt;&gt; unpacking operator*는 시퀀스를 요소를 하나씩 풀어서 전달한다. **는 딕셔너리의 키-밸류 쌍을 풀어서 전달한다.&gt;&gt;&gt; l = [1, 3, 2, 4]&gt;&gt;&gt; print(*l)1 3 2 4&gt;&gt;&gt; d = {0: 'zero', 1: 'one', 2: 'two'}&gt;&gt;&gt; print(*d)0 1 2&gt;&gt;&gt; d = {0: 'zero', 1: 'one', 2: 'two'}&gt;&gt;&gt; {**d}{0: 'zero', 1: 'one', 2: 'two'}&gt;&gt;&gt; {**d, 4:'four'}",
+            "url": "https://lazymatlab.tistory.com/298",
+            "title": "파이썬 중고급 스킬들 | 게으른맽랩 lazy matlab",
+            "summary": "pixabayReal Python의 Intermediate and Advanced Features라는 재생목록을 보고 기억할 만한 내용을 정리한 것입니다. is와 ====는 두 객체의 값이 같은지 보고, is는 동일한 객체인지 본다.&gt;&gt;&gt; a = [1, 2, 3]&gt;&gt;&gt; b = a&gt;&gt;&gt; a == bTrue&gt;&gt;&gt; a is bTrue&gt;&gt;&gt; c = [1, 2, 3",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FboI65K%2FbtsLJgC8yzn%2Fau4naIMQFzdA8e8sBMtBp1%2Fimg.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-01-10T05:45:05.000Z",
+            "date_published": "2025-01-10T05:45:05.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "python",
+                "고급",
+                "중급",
+                "파이썬"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "파이썬 중고급 스킬들",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223719722651",
+            "content_html": "많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MATLAB을 사용하는 경우가 많습니다. MATLAB은 과학 및 공학 분야의 Technical Computing 애플리케이션에 최적화되어 있어 개발 시간을 절약할 수 있게 도와주며 내장된 앱과 ‘Live Task’는 코딩을 최소화할 수 있게 해 줍니다. 공학 및 과학 애플리케이션이 여러 기술을 필요로 할 때, ‘MATLAB과 Python 간의 상호 운용성.......",
+            "url": "https://blog.naver.com/matlablove/223719722651",
+            "title": "인공지능 개발을 위해 MATLAB과 Python 함께 사용하기 | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "많은 Python 개발자들은 Python이 범용적이며 유연성을 제공하는 점을 좋아합니다. 또한 접근성이 좋고 사용자 커뮤니티가 크다는 장점도 있으며, 특히 Pandas, Scikit-learn, TensorFlow, PyTorch와 같은 라이브러리 덕분에 데이터 과학과 AI 분야에서 많이 사용됩니다. 반면, MATLAB 사용자들은 주로 생산성을 이유로 MA",
+            "date_modified": "2025-01-09T02:03:43.000Z",
+            "date_published": "2025-01-09T02:03:43.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "머신러닝과 딥러닝"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "인공지능 개발을 위해 MATLAB과 Python 함께 사용하기",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/272022",
+            "content_html": "07. 3차원 그래프",
+            "url": "https://wikidocs.net/272022",
+            "title": "07. 3차원 그래프 | 게으른쌤의 매트랩",
+            "summary": "07. 3차원 그래프",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-07T02:26:01.000Z",
+            "date_published": "2025-01-07T02:26:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "07. 3차원 그래프",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://lazymatlab.tistory.com/297",
+            "content_html": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\\gcd(mn, x) = 1$(b) $\\gcd(m, x) = 1$ and $\\gcd(n, x) = 1$(c) $\\gcd(m, a) = 1$ and $\\gcd(n, b) = 1$ where $a$ and $b$ are remainders of $x$ divided by $m$ and $n$, respectively.[Def] $\\mathbb{U}_n := \\{x\\in \\mathbb{Z} \\;|\\; 0 \\le x &lt; n, \\gcd(n, x) = 1 \\}$Given two coprime positive integers $m$, $n$, define a function\\begin{align}f: ",
+            "url": "https://lazymatlab.tistory.com/297",
+            "title": "Euler-Phi Function | 게으른맽랩 lazy matlab",
+            "summary": "MathJax = { tex: {inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]} }; [Thm 1] For integers $m$, $n$, $x$, if $m$ and $n$ are coprime, then the followings are equivalent.(a) $\\gcd(mn, x) = 1$(b) $\\gcd(m, x) =",
+            "image": {
+                "url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKyNRV%2FbtsLGeRDBAr%2FK0Z82Bx601I5SaoAAI1rTK%2Fimg.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-06T12:17:49.000Z",
+            "date_published": "2025-01-06T12:17:49.000Z",
+            "author": {
+                "name": "게으른 the lazy"
+            },
+            "tags": [
+                "mathe",
+                "euler-phi"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Euler-Phi Function",
+                "blogTitle": "게으른맽랩 lazy matlab",
+                "blogLink": "https://lazymatlab.tistory.com/",
+                "blogLinkMd5Hash": "9df8116473a6c9200c838d6e51378a04"
+            }
+        },
+        {
+            "id": "https://wikidocs.net/268766",
+            "content_html": "6.6 다양한 그래프들",
+            "url": "https://wikidocs.net/268766",
+            "title": "6.6 다양한 그래프들 | 게으른쌤의 매트랩",
+            "summary": "6.6 다양한 그래프들",
+            "image": {
+                "url": "https://wikidocs.net/images/book/logo_wikidocs_rACTYgI_85jccEr.png",
+                "type": "png"
+            },
+            "date_modified": "2025-01-05T06:25:26.000Z",
+            "date_published": "2025-01-05T06:25:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "6.6 다양한 그래프들",
+                "blogTitle": "게으른쌤의 매트랩",
+                "blogLink": "https://wikidocs.net/book/12301",
+                "blogLinkMd5Hash": "bcbbf59b05d10ad310aa2f6b33c27d01",
+                "favicon": "https://wikidocs.net/static/img/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.naver.com/matlablove/223697455164",
+            "content_html": "오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. 이 부문에서 학생들은 실제와 가까운 시뮬레이터에 직접 개발한 자율주행 알고리즘을 탑재해 경쟁하게 됩니다. 올해는 세종대학교 AIV 팀이 뛰어난 성과를 거두며 우승을 차지했습니다. 세종대 AIV 팀원들은 특히, MATLAB을 활용한 알고리즘 프로토타이핑과 데이터 시각화 기능이 대회 준비에 큰 도움이 되었다고 우승 후기를 전합니.......",
+            "url": "https://blog.naver.com/matlablove/223697455164",
+            "title": "MATLAB으로 자율주행의 미래를 그리다: 세종대 AIV 팀의 우승 스토리 | MATLAB&amp;Simulink 공식 블로그",
+            "summary": "오늘 포스트에서는 2024 HL FMA (Future Mobility Award) 자율주행 경진대회에서 뛰어난 성과를 보여준 세종대학교 AIV 팀을 소개하겠습니다. HL FMA는 HL 만도가 주최하고 한라대학교 SW 중심대학 사업단에 주관하며, MORAI의 가상 시뮬레이션 플랫폼을 활용하는 aMAP Stride Championship 부문을 운영했습니다. ",
+            "date_modified": "2024-12-20T05:00:00.000Z",
+            "date_published": "2024-12-20T05:00:00.000Z",
+            "author": {
+                "name": "matlablove"
+            },
+            "tags": [
+                "학교/대학지원"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MATLAB으로 자율주행의 미래를 그리다: 세종대 AIV 팀의 우승 스토리",
+                "blogTitle": "MATLAB&amp;Simulink 공식 블로그",
+                "blogLink": "https://blog.naver.com/matlablove?fromRss=true&trackingCode=rss",
+                "blogLinkMd5Hash": "4c5a93188033715dac0f759a46d69c00"
+            }
+        }
+    ]
+}
