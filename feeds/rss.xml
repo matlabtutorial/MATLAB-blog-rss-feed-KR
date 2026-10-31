@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MATLAB 블로그 RSS</title>
+        <link>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</link>
+        <description>MATLAB 테크 블로그의 업데이트를 모아둔 RSS 피드</description>
+        <lastBuildDate>Sat, 31 Oct 2026 18:56:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>matlabtutorial/tech-blog-rss-feed</generator>
+        <language>ko</language>
+        <image>
+            <title>MATLAB 블로그 RSS</title>
+            <url>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/images/icon.png</url>
+            <link>https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/</link>
+        </image>
+        <copyright>matlabtutorial/tech-blog-rss-feed</copyright>
+        <atom:link href="https://matlabtutorial.github.io/MATLAB-blog-rss-feed-KR/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[에이전틱 AI로 임베디드 시스템 개발하기: 모델 기반 설계 활용법 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=HpZsW1M2GKM</link>
+            <guid>https://www.youtube.com/watch?v=HpZsW1M2GKM</guid>
+            <pubDate>Wed, 28 Oct 2026 08:00:12 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/HpZsW1M2GKM/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Simulink Copilot이란? | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=TpZSA9IxyCM</link>
+            <guid>https://www.youtube.com/watch?v=TpZSA9IxyCM</guid>
+            <pubDate>Wed, 21 Oct 2026 08:00:09 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/TpZSA9IxyCM/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 학생 공모전] Global Student Challenge 2026 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/shorts/8GD0r_cGdbc</link>
+            <guid>https://www.youtube.com/shorts/8GD0r_cGdbc</guid>
+            <pubDate>Mon, 19 Oct 2026 02:13:40 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/8GD0r_cGdbc/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&amp;rs=AOn4CLCXX6e6aqJHgsqa-7Fam5z02Ykb3w" width="405"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 학생 공모전] Global Student Challenge 2026 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224446315266</link>
+            <guid>https://blog.naver.com/matlablove/224446315266</guid>
+            <pubDate>Mon, 19 Oct 2026 01:56:43 GMT</pubDate>
+            <description><![CDATA[실제 엔지니어링 문제 해결에 도전할 준비가 되셨나요? MathWorks Global Student Challenge 2026은 전 세계 학부 및 대학원생을 대상으로, MATLAB과 Simulink를 활용해 실제 공학 문제에 대한 솔루션을 개발하고 시연하는 글로벌 대회입니다. 개인 또는 팀으로 참가할 수 있으며, 최대 2,000달러의 상금을 받을 수 있습니다]]></description>
+            <content:encoded><![CDATA[실제 엔지니어링 문제 해결에 도전할 준비가 되셨나요? MathWorks Global Student Challenge 2026은 전 세계 학부 및 대학원생을 대상으로, MATLAB과 Simulink를 활용해 실제 공학 문제에 대한 솔루션을 개발하고 시연하는 글로벌 대회입니다. 개인 또는 팀으로 참가할 수 있으며, 최대 2,000달러의 상금을 받을 수 있습니다. Global Student Challenge 2026 주제 Agentic AI를 활용한 엔지니어링 시스템 문제 해결 자율주행차, 로보틱스, 드론, 지속가능성 및 재생에너지, 무선통신의 5개 분야 중 하나를 선택해 프로젝트를 수행합니다. 모델링, 시뮬레이션 및 Agentic AI 워크플로를 활용하여 솔루션을 설계하고, 테스트하고, 검증하며, 지속적.......]]></content:encoded>
+            <category>MATLAB AI 경진대회</category>
+            <enclosure length="0" type="image/PNG" url="https://blogthumb.pstatic.net/MjAyNjEwMTlfMjQg/MDAxNzkyMzc0MjgwMDk5.Q5Z6i0hRtpv40D18JU5kNsNnKwQOptGNgmlkGvO2rkcg.79K_aSdPOCzt2504ktqc1eAgEcsNXygq-lCKN6vpLc0g.PNG/%BD%BD%B6%F3%C0%CC%B5%E51.PNG?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[전력전자 시스템 검증 가속화: ROM과 Fault Analysis 활용 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=xwZ11nia6GY</link>
+            <guid>https://www.youtube.com/watch?v=xwZ11nia6GY</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:35 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/xwZ11nia6GY/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Simscape Electrical을 활용한 전력전자 시스템 모델링 기초 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=uOnF_ueKy9A</link>
+            <guid>https://www.youtube.com/watch?v=uOnF_ueKy9A</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:26 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/uOnF_ueKy9A/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[우주 기상이 위성 궤도에 미치는 영향과 모델링 방법 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=jDeRTk99lCM</link>
+            <guid>https://www.youtube.com/watch?v=jDeRTk99lCM</guid>
+            <pubDate>Wed, 14 Oct 2026 08:00:20 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/jDeRTk99lCM/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[무선 통신 및 레이더 시스템 트렌드와 과제 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=PGUK9XD5P-Q</link>
+            <guid>https://www.youtube.com/watch?v=PGUK9XD5P-Q</guid>
+            <pubDate>Thu, 08 Oct 2026 08:00:33 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/PGUK9XD5P-Q/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB과 Simulink 환경에서 RTL 검증 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=OgLBjfTkcxM</link>
+            <guid>https://www.youtube.com/watch?v=OgLBjfTkcxM</guid>
+            <pubDate>Thu, 08 Oct 2026 08:00:32 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/OgLBjfTkcxM/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Agentic AI로 바뀌는 무선통신 및 레이더 개발 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=yZ5D2WBVqA8</link>
+            <guid>https://www.youtube.com/watch?v=yZ5D2WBVqA8</guid>
+            <pubDate>Thu, 08 Oct 2026 08:00:14 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/yZ5D2WBVqA8/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[무선 통신 및 레이더 시스템의 모델기반 FPGA 및 SoC구현 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=38nvttLEahU</link>
+            <guid>https://www.youtube.com/watch?v=38nvttLEahU</guid>
+            <pubDate>Thu, 08 Oct 2026 08:00:12 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/38nvttLEahU/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Parallel Server란? | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=uWvZpVgtuUQ</link>
+            <guid>https://www.youtube.com/watch?v=uWvZpVgtuUQ</guid>
+            <pubDate>Wed, 07 Oct 2026 08:00:08 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/uWvZpVgtuUQ/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Copilot과 AI Agent: MATLAB 기반 Agentic Workflow 구현하기 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=Ju93iaEaiwk</link>
+            <guid>https://www.youtube.com/watch?v=Ju93iaEaiwk</guid>
+            <pubDate>Fri, 02 Oct 2026 08:00:13 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/Ju93iaEaiwk/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[생성형 AI를 신뢰할 수 있는 엔지니어링 결과로: MATLAB MCP 활용하기 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=G6FE8iWb0Fg</link>
+            <guid>https://www.youtube.com/watch?v=G6FE8iWb0Fg</guid>
+            <pubDate>Fri, 02 Oct 2026 08:00:09 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/G6FE8iWb0Fg/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[시계열 모델링이란? | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=uBLX0BGLS_Q</link>
+            <guid>https://www.youtube.com/watch?v=uBLX0BGLS_Q</guid>
+            <pubDate>Wed, 30 Sep 2026 08:00:39 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/uBLX0BGLS_Q/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB 및 Simulink 최신 버전 R2026b의 새로운 기능 | MATLAB Korea]]></title>
+            <link>https://www.youtube.com/watch?v=-MX_OiVYSl4</link>
+            <guid>https://www.youtube.com/watch?v=-MX_OiVYSl4</guid>
+            <pubDate>Wed, 23 Sep 2026 02:09:12 GMT</pubDate>
+            <enclosure length="0" type="jpg" height="720" url="https://i.ytimg.com/vi/-MX_OiVYSl4/maxresdefault.jpg" width="1280"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 양의 유리수를 만드는 수열 | 게으른맽랩 lazy matlab]]></title>
+            <link>https://lazymatlab.tistory.com/329</link>
+            <guid>https://lazymatlab.tistory.com/329</guid>
+            <pubDate>Tue, 22 Sep 2026 17:23:10 GMT</pubDate>
+            <description><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; 아래 수열은 놀랍게도 모든 양의 유리수를 만들어낸다. 몇 개를 써보면 아래와 같다. 규칙이 없어 보이는 이 수열은 사실 유리수를 연분수로 표현하여 인덱스와 매칭시킬 수 있다. 예를 들어보자. 이 수열대로 따라갔을 때 $a_{55}$는 얼마일까? ]]></description>
+            <content:encoded><![CDATA[MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; 아래 수열은 놀랍게도 모든 양의 유리수를 만들어낸다. 몇 개를 써보면 아래와 같다. 규칙이 없어 보이는 이 수열은 사실 유리수를 연분수로 표현하여 인덱스와 매칭시킬 수 있다. 예를 들어보자. 이 수열대로 따라갔을 때 $a_{55}$는 얼마일까? 우선 55를 아래 과정으로 1로 만든다.* 홀수이면 -1을 뺀다.* 짝수이면 2로 나눈다. 이제 맨 밑에서 다시 거슬러 올라간다. 맨 끝의 1은 $a_1 = 1$을 뜻한다. 2배를 하는 곳에서는 1을 더하고, 1을 더하는 곳에서는 역수를 취한다. 계산해보면 7/12가 나온다. 이러한 연분수는 보통 아래와 같이 표기한다. 따라서 위 유리수를 다시 수열의 인덱스로 바꾸려면 아래와 같이 계산하면 된다. 모든 양의 유리수는 연분수로 나타내면 유한 연분수가 되며 그 표현은 유일하다. (참고1, 참고2, 참고3) 다시 원래 수열을 만드는 규칙]]></content:encoded>
+            <category>mathe</category>
+            <category>continued fraction</category>
+            <category>연분수</category>
+            <enclosure length="0" type="image//thumb/R800x0/" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbDTvUt%2FdJMcai5SBJJ%2FAAAAAAAAAAAAAAAAAAAAANuLnWt2Xpp74KMuSqukJL6htxt66lEaJKrTa-U-ekr8%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DPRQHmQWATSGjAQRR3vlNG1NnUOs%253D"/>
+        </item>
+        <item>
+            <title><![CDATA[PyTorch 모델을 Simulink와 Jetson에 배포하는 방법 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224371152002</link>
+            <guid>https://blog.naver.com/matlablove/224371152002</guid>
+            <pubDate>Fri, 07 Aug 2026 06:21:34 GMT</pubDate>
+            <description><![CDATA[자율주행, ADAS, 로보틱스, 산업용 비전 시스템에서는 학습된 인공지능 모델을 실제 임베디드 하드웨어에서 안정적으로 실행하는 것이 중요합니다. 특히 PyTorch로 개발한 딥러닝 모델을 온디바이스 AI 또는 엣지 AI 환경에 배포하려면 모델 변환, 코드 생성, GPU 가속, 하드웨어 검증까지 이어지는 전체 워크플로가 필요합니다. 본 글에서는 MATLAB ]]></description>
+            <content:encoded><![CDATA[자율주행, ADAS, 로보틱스, 산업용 비전 시스템에서는 학습된 인공지능 모델을 실제 임베디드 하드웨어에서 안정적으로 실행하는 것이 중요합니다. 특히 PyTorch로 개발한 딥러닝 모델을 온디바이스 AI 또는 엣지 AI 환경에 배포하려면 모델 변환, 코드 생성, GPU 가속, 하드웨어 검증까지 이어지는 전체 워크플로가 필요합니다. 본 글에서는 MATLAB Coder Support Package for PyTorch and LiteRT Models 애드온을 활용해 YOLOv26 인스턴스 분할 모델을 Simulink와 MATLAB 코드 생성 기능으로 NVIDIA Jetson AGX Orin에 배포하는 과정을 소개합니다. 라즈베리파이와 같은 엣지 디바이스에서 AI 프로토타입을 시작한 뒤 더 높은 GPU 성능이 필요.......]]></content:encoded>
+            <category>모델 기반 설계</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA4MDdfMyAg/MDAxNzg2MDgyMTc1MDM4.umMr100W0ThFpUr2V0OwxWM55_pd_IgWaUPYWG0Qk8Qg.J6rBjIvMHQmAooGqtI0uzprBOnwlJXKSBUtSoL1hnJcg.PNG/image1.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[태양광인버터부터 ESS, 그린수소까지: 미래 에너지 시스템 개발은 어떻게 달라지고 있을까? | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224362501998</link>
+            <guid>https://blog.naver.com/matlablove/224362501998</guid>
+            <pubDate>Thu, 30 Jul 2026 00:28:48 GMT</pubDate>
+            <description><![CDATA[탄소중립과 에너지 전환이 가속화되면서 태양광 발전, 에너지 저장 시스템(ESS), 그린수소는 개별 기술이 아닌 하나의 에너지 생태계로 연결되고 있습니다. 태양광 발전을 통해 생산한 전력은 ESS에 저장되고, 장주기 저장이 필요한 경우에는 수소 형태로 전환되어 활용될 수 있습니다. 이러한 시스템의 복잡성이 높아지면서 설계 단계부터 모델링, 시뮬레이션, 가상 ]]></description>
+            <content:encoded><![CDATA[탄소중립과 에너지 전환이 가속화되면서 태양광 발전, 에너지 저장 시스템(ESS), 그린수소는 개별 기술이 아닌 하나의 에너지 생태계로 연결되고 있습니다. 태양광 발전을 통해 생산한 전력은 ESS에 저장되고, 장주기 저장이 필요한 경우에는 수소 형태로 전환되어 활용될 수 있습니다. 이러한 시스템의 복잡성이 높아지면서 설계 단계부터 모델링, 시뮬레이션, 가상 검증의 중요성도 함께 커지고 있습니다. 태양광인버터의 진화: Grid-Forming 시대를 준비하는 전력망 재생에너지 확대와 함께 태양광인버터는 단순한 전력변환 장치를 넘어 미래 전력망 안정성 확보의 핵심 기술로 주목받고 있습니다. 특히 대규모 태양광 발전소, ESS, 마이크로.......]]></content:encoded>
+            <category>전력 전자 제어 설계</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA3MjlfNyAg/MDAxNzg1MzE5MTExNzg3.hZRu9T9Ij7ExYO6MugaoUZQE7ubZ3mhM6X6x_6mAEsQg.07cEdFF7tXLr5Cxc-RNZHfIJf3wAZJul29GIYtLIN4kg.PNG/%B1%D7%B8%B21.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[파이토치(PyTorch)와 LiteRT 모델을 C/C++ 및 CUDA 코드로 변환하는 방법 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224362501842</link>
+            <guid>https://blog.naver.com/matlablove/224362501842</guid>
+            <pubDate>Thu, 30 Jul 2026 00:28:35 GMT</pubDate>
+            <description><![CDATA[AI 모델을 실제 제품이나 임베디드 시스템에 적용하려고 하면, 모델을 학습하는 것만큼이나 중요한 단계가 있습니다. 바로 배포입니다. 특히 최근에는 사전 훈련된 PyTorch 및 LiteRT 딥러닝 모델로부터 C/C++ 또는 CUDA 코드를 생성하여 데스크탑, 임베디드 프로세서, 마이크로컨트롤러, NVIDIA GPU 기반 플랫폼 등에 배포하는 흐름이 중요해지]]></description>
+            <content:encoded><![CDATA[AI 모델을 실제 제품이나 임베디드 시스템에 적용하려고 하면, 모델을 학습하는 것만큼이나 중요한 단계가 있습니다. 바로 배포입니다. 특히 최근에는 사전 훈련된 PyTorch 및 LiteRT 딥러닝 모델로부터 C/C++ 또는 CUDA 코드를 생성하여 데스크탑, 임베디드 프로세서, 마이크로컨트롤러, NVIDIA GPU 기반 플랫폼 등에 배포하는 흐름이 중요해지고 있습니다. 기존에는 PyTorch나 TensorFlow 계열 모델을 임베디드 환경에 올리기 위해 런타임, 외부 라이브러리, 하드웨어별 빌드 환경 등을 함께 고려해야 했습니다. 하지만 MATLAB Coder를 활용한 PyTorch 및 LiteRT 코드 생성에서는 MATLAB R2026a부터 PyTorch ExportedProgram 및 LiteRT 모델로.......]]></content:encoded>
+            <category>머신러닝과 딥러닝</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA3MjlfMjUg/MDAxNzg1MzE2MDQzMzc3.w0OTRpM3NwSrlZHSdmQzCPnYXnE2uSNF6IrBCREO03gg.Iav96wMPMIjIOdrFLc_tx_BEYBwlquhTlYLUz9Lem1Eg.PNG/%B1%D7%B8%B21.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[연구실의 아이디어를 시장의 제품으로 만드는 딥테크 스타트업의 공통점 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224344866448</link>
+            <guid>https://blog.naver.com/matlablove/224344866448</guid>
+            <pubDate>Mon, 13 Jul 2026 01:27:41 GMT</pubDate>
+            <description><![CDATA[한국의 딥테크 스타트업 생태계는 빠르게 성장하고 있습니다. KAIST, POSTECH, 서울대학교를 비롯한 대학과 연구기관에서 나온 기술이 창업으로 이어지고, AI, 자율주행, 로보틱스, 반도체, 우주항공, 에너지 분야의 혁신 기업들이 등장하고 있죠. 하지만 뛰어난 연구 성과가 곧바로 성공적인 제품으로 이어지는 것은 아닙니다. 많은 딥테크 스타트업이 기술 ]]></description>
+            <content:encoded><![CDATA[한국의 딥테크 스타트업 생태계는 빠르게 성장하고 있습니다. KAIST, POSTECH, 서울대학교를 비롯한 대학과 연구기관에서 나온 기술이 창업으로 이어지고, AI, 자율주행, 로보틱스, 반도체, 우주항공, 에너지 분야의 혁신 기업들이 등장하고 있죠. 하지만 뛰어난 연구 성과가 곧바로 성공적인 제품으로 이어지는 것은 아닙니다. 많은 딥테크 스타트업이 기술 자체는 우수하지만, 실제 고객 환경에서 동작하는 제품으로 발전시키는 과정에서 예상치 못한 어려움을 겪습니다. 연구실에서 검증된 알고리즘이 현장에서 기대만큼 동작하지 않거나, 시스템 통합 단계에서 새로운 제약 조건이 발견되기도 합니다. 그렇다면 연구 기반 스타트업이 시장에.......]]></content:encoded>
+            <category>스타트업</category>
+            <enclosure length="0" type="jpg" url="https://blogthumb.pstatic.net/MjAyNjA3MTBfMTYy/MDAxNzgzNjUzOTczODk1.uB3ivpW-nUlKdnm_r714nBI0wZgRLGmkMn74AOHMr98g.Z8GV7M0v9idieeOUoJE8tF5TGACGB9YQJUI8M_K5R0Yg.JPEG/MBD_startup_whitepaper.jpg?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[빠르게 만드는 것보다, 더 빨리 이해하는 것이 중요한 이유 - 프로토타입 이후에 필요한 것 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224320938312</link>
+            <guid>https://blog.naver.com/matlablove/224320938312</guid>
+            <pubDate>Fri, 19 Jun 2026 06:28:27 GMT</pubDate>
+            <description><![CDATA[프로토타입을 만드는 일과, 그것을 이해하는 일 사이 대부분의 엔지니어링 팀은 프로토타입을 만듭니다. 하지만 그 프로토타입이 실제로 어떤 방식으로 작동하고 있는지, 어떤 물리적 특성을 보이며, 어느 지점에서 리스크가 발생할 수 있는지까지 초기에 명확히 설명할 수 있는 팀은 생각보다 많지 않습니다. 문제는 대부분 이 지점에서 ‘측정’을 뒤로 미룬다는 데 있습니]]></description>
+            <content:encoded><![CDATA[프로토타입을 만드는 일과, 그것을 이해하는 일 사이 대부분의 엔지니어링 팀은 프로토타입을 만듭니다. 하지만 그 프로토타입이 실제로 어떤 방식으로 작동하고 있는지, 어떤 물리적 특성을 보이며, 어느 지점에서 리스크가 발생할 수 있는지까지 초기에 명확히 설명할 수 있는 팀은 생각보다 많지 않습니다. 문제는 대부분 이 지점에서 ‘측정’을 뒤로 미룬다는 데 있습니다. 중요하지 않아서라기보다, 복잡하고 시간이 걸리기 때문이죠. 측정은 왜 항상 늦어질까 Bay Area Sonic Solutions의 사례가 흥미로운 이유도 여기에 있습니다. 이 회사는 기술을 직접 만드는 대신, 초기 단계의 개발팀이 자신의 제품을 더 이른 시점에, 더 정확하게 이.......]]></content:encoded>
+            <category>스타트업</category>
+            <enclosure length="0" type="jpeg" url="https://blogthumb.pstatic.net/MjAyNjA2MTlfMzEg/MDAxNzgxODQ0Njk2ODEw.OQFGV51aIL2-Rr3W5EKjtco-mTE3wbUFUYXBZIQwzv0g.k349reiMUxWi094_i9PcWl7n2a56nNoBgZPRnxsp4Bgg.JPEG/Bay_Area_Sonic_Solutions1.jpeg?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[에이전트 AI로 제품 개발 속도 10배 높이는 방법 (스타트업 엔지니어가 지금 반드시 알아야 할 제품 개발 방식) | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224312533912</link>
+            <guid>https://blog.naver.com/matlablove/224312533912</guid>
+            <pubDate>Thu, 11 Jun 2026 01:03:03 GMT</pubDate>
+            <description><![CDATA[에이전트 AI 시대가 시작됐다 최근 들어 ‘에이전트 AI(Agentic AI)’를 실제 업무에 적용하려는 스타트업이 빠르게 늘고 있습니다. 예전에는 AI를 “코드를 추천해 주는 도구” 정도로 썼다면, 지금은 AI가 직접 작업을 수행하고 결과를 만들어내는 방식으로 바뀌고 있습니다. 투자자들도 이런 흐름에 주목하고 있고, 에이전트 AI를 적극적으로 활용하는 스]]></description>
+            <content:encoded><![CDATA[에이전트 AI 시대가 시작됐다 최근 들어 ‘에이전트 AI(Agentic AI)’를 실제 업무에 적용하려는 스타트업이 빠르게 늘고 있습니다. 예전에는 AI를 “코드를 추천해 주는 도구” 정도로 썼다면, 지금은 AI가 직접 작업을 수행하고 결과를 만들어내는 방식으로 바뀌고 있습니다. 투자자들도 이런 흐름에 주목하고 있고, 에이전트 AI를 적극적으로 활용하는 스타트업에 대한 관심도 점점 커지고 있습니다. 엔지니어링 분야에서의 활용은 아직 초기 단계다 다만 현실적으로는 한 가지 문제가 있습니다. 엔지니어링 기반 제품을 만드는 스타트업에서는 에이전트 AI를 어떻게 써야 하는지 명확한 방법이 아직 부족합니다. 참고할 사례도 많지 않고 워.......]]></content:encoded>
+            <category>스타트업</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA2MTBfMTc1/MDAxNzgxMDcwNTg5Nzk5.U6SAZL1zJTrIWtYs_dBRaYgKIWAZF0okHUPRTqiIV7wg.qkJR_p3MspvMoeFjOjGXeCxQKw0SDfDP2SuZHKPWh7Mg.PNG/simulink-agentic-toolkit-spec-plant-model.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[KISTI 슈퍼컴퓨터 기반 MATLAB 병렬 컴퓨팅과 AI 가속화 온라인 워크샵 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224306563521</link>
+            <guid>https://blog.naver.com/matlablove/224306563521</guid>
+            <pubDate>Fri, 05 Jun 2026 00:59:56 GMT</pubDate>
+            <description><![CDATA[국가슈퍼컴퓨팅센터와 MathWorks가 공동으로 MATLAB 병렬 컴퓨팅과 AI 가속화 온라인 워크샵을 개최합니다. 이번 워크샵에서는 KISTI 슈퍼컴퓨터 환경에서 MATLAB 서비스를 이용하는 방법을 소개하고, Parallel Computing Toolbox 및 MATLAB Parallel Server를 활용해 MATLAB 코드의 성능을 효과적으로 가속화]]></description>
+            <content:encoded><![CDATA[국가슈퍼컴퓨팅센터와 MathWorks가 공동으로 MATLAB 병렬 컴퓨팅과 AI 가속화 온라인 워크샵을 개최합니다. 이번 워크샵에서는 KISTI 슈퍼컴퓨터 환경에서 MATLAB 서비스를 이용하는 방법을 소개하고, Parallel Computing Toolbox 및 MATLAB Parallel Server를 활용해 MATLAB 코드의 성능을 효과적으로 가속화하는 다양한 기법을 다룹니다. Preallocation과 Vectorization을 기반으로 한 효율적인 코드 작성 방법, 멀티코어 CPU 및 GPU를 활용한 병렬 처리 기법, App 기반의 Low-code AI 개발 및 가속화 전략을 소개합니다. 또한 PINN(Physics-Informed Neural Network), FNO(Fourier Neural Operator) 등 최신 AI 모델의 작성 및 활용 방법을 살.......]]></content:encoded>
+            <category>MATLAB 세미나/웨비나</category>
+            <enclosure length="0" type="jpg" url="https://blogthumb.pstatic.net/MjAyNjA2MDRfMTgw/MDAxNzgwNTgxNDU4NzM4.VhZ8upExtg-H3exT7oAQpQ27V3dGB9k23mxAlv5KPaog.-8L8OxvhgJWKIOw3tIFoIB2lz20V8I8f12-RFrDhA7wg.JPEG/GettyImages-177336251.jpg?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[MATLAB Student Ambassador가 바라본 MATLAB EXPO 2026 참관 후기 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224300038065</link>
+            <guid>https://blog.naver.com/matlablove/224300038065</guid>
+            <pubDate>Fri, 29 May 2026 05:24:10 GMT</pubDate>
+            <description><![CDATA[안녕하세요! 광운대학교 MATLAB Student Ambassador, 황병선입니다. 이번 MATLAB EXPO 2026은 2026년 4월 7일 서울 코엑스 그랜드볼룸에서 개최되었습니다. 올해 EXPO의 핵심 키워드는 단연 `Agentic AI`와 `6G·위성통신`이었어요. 작년이 산업 현장의 AI 적용 사례를 보여주는 자리였다면, 올해는 MATLAB·Si]]></description>
+            <content:encoded><![CDATA[안녕하세요! 광운대학교 MATLAB Student Ambassador, 황병선입니다. 이번 MATLAB EXPO 2026은 2026년 4월 7일 서울 코엑스 그랜드볼룸에서 개최되었습니다. 올해 EXPO의 핵심 키워드는 단연 `Agentic AI`와 `6G·위성통신`이었어요. 작년이 산업 현장의 AI 적용 사례를 보여주는 자리였다면, 올해는 MATLAB·Simulink 안에 생성형 AI가 직접 내재화(embedded)되어 엔지니어의 워크플로우 자체를 바꾸는 모습이 인상적이었습니다. 저는 이번에 데모 부스와 무선·우주 분야 세션을 중심으로 관람했어요. 그 중 기억에 남는 부스와 세션을 담아 후기를 작성해보려 합니다. 이 글이 여러분이 MATLAB의 최신 기능과 R2026a 신기능을.......]]></content:encoded>
+            <category>학교/대학지원</category>
+            <enclosure length="0" type="jpg" url="https://blogthumb.pstatic.net/MjAyNjA1MjlfNzEg/MDAxNzgwMDMxMjgzODY2.sIaTonHuwrmjjEmglsykhZaijCcMB7TIBZpx64366GEg.9IuPSo6hKRJoxcIsAEnOJcy53R6h17Xfn5PH_z50V_Ag.JPEG/%B1%D7%B8%B22.jpg?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 시장의 ‘변동성’, 왜 이렇게 계산하기 어려울까? 다시 접근한 핀테크 스타트업 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224286215087</link>
+            <guid>https://blog.naver.com/matlablove/224286215087</guid>
+            <pubDate>Fri, 15 May 2026 02:16:35 GMT</pubDate>
+            <description><![CDATA[옵션 가격은 왜 항상 논쟁거리일까요? 주식이나 파생상품을 다룰 때 사실 다들 한 번쯤 이런 생각을 합니다. “이 가격… 정말 맞는 걸까?” 옵션 가격, 리스크 관리, 헤지 전략은 결국 ‘변동성’ 이라는 값에 달려 있는데, 이 변동성은 눈으로 볼 수 있는 숫자가 아닙니다. 그래서 우리는 ✔ 여러 가정을 세운 모델로 추정하거나 ✔ 계속 다시 계산하며 맞춰보는 ]]></description>
+            <content:encoded><![CDATA[옵션 가격은 왜 항상 논쟁거리일까요? 주식이나 파생상품을 다룰 때 사실 다들 한 번쯤 이런 생각을 합니다. “이 가격… 정말 맞는 걸까?” 옵션 가격, 리스크 관리, 헤지 전략은 결국 ‘변동성’ 이라는 값에 달려 있는데, 이 변동성은 눈으로 볼 수 있는 숫자가 아닙니다. 그래서 우리는 ✔ 여러 가정을 세운 모델로 추정하거나 ✔ 계속 다시 계산하며 맞춰보는 방식을 써왔죠. 문제는 시장이 조금만 흔들려도 이 방식들이 잘 안 맞기 시작한다는 것입니다. genOTC는 “계산법”보다 “문제 정의”를 바꿨다 프랑스의 핀테크 스타트업 genOTC는 “어떤 모델을 쓰느냐”보다 더 근본적인 질문을 던졌습니다. 굳이 복잡한 가정을 먼저 깔아야 할.......]]></content:encoded>
+            <category>스타트업</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA1MTRfMTAx/MDAxNzc4NzQ4MzQ1ODIy.sqHk0SBA_hhLu20bsRVTOYO5BDPAYpIafiMdi6Tc060g.eLkluixPbdfr1mabdsgf62Sc1_8-ZywOc7A88sfRBdYg.PNG/genOTC1.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[교차로 중심 교통 모델을 이용한 도시 자율 주행용 합성 데이터 생성 | MATLAB&amp;amp;Simulink 공식 블로그]]></title>
+            <link>https://blog.naver.com/matlablove/224282912046</link>
+            <guid>https://blog.naver.com/matlablove/224282912046</guid>
+            <pubDate>Tue, 12 May 2026 04:55:04 GMT</pubDate>
+            <description><![CDATA[도시 환경을 위한 ADAS 및 자율 주행 시스템 개발은 매우 중요한 과제입니다. 특히 교차로는 자율 주행 차량이 복잡한 도로 구조, 신호등, 그리고 다른 도로 사용자들과의 역동적인 상호 작용 속에서 주행해야 하기 때문에 검증하기가 매우 어렵습니다. 시뮬레이션은 시스템 검증 및 합성 데이터 생성(SDG) AI 모델 미세 조정을 위한 안전하고 확장 가능하며 비]]></description>
+            <content:encoded><![CDATA[도시 환경을 위한 ADAS 및 자율 주행 시스템 개발은 매우 중요한 과제입니다. 특히 교차로는 자율 주행 차량이 복잡한 도로 구조, 신호등, 그리고 다른 도로 사용자들과의 역동적인 상호 작용 속에서 주행해야 하기 때문에 검증하기가 매우 어렵습니다. 시뮬레이션은 시스템 검증 및 합성 데이터 생성(SDG) AI 모델 미세 조정을 위한 안전하고 확장 가능하며 비용 효율적인 환경을 제공함으로써 이러한 과제를 해결하는 데 중요한 역할을 합니다. 그러나 교차로 주변의 현실적인 주변 교통 상황을 수동으로 생성하는 것은 시간이 많이 소요되고, 특히 다양한 행동과 경계 상황을 고려할 때 확장성이 떨어집니다. 이전 글에서는 다음과 같은 내용.......]]></content:encoded>
+            <category>모델 기반 설계</category>
+            <enclosure length="0" type="png" url="https://blogthumb.pstatic.net/MjAyNjA0MTRfMjcz/MDAxNzc2MTMwNjcyNTc2.eBdtNp7ShZGuKWe0Cbytw57zrnwATD7RFDliG6IfUQsg.yddwKxqPyYTLH9_7S9pE0h_hyVDEP9qum8noY3rGBa4g.PNG/blog1.png?type=w2"/>
+        </item>
+        <item>
+            <title><![CDATA[[식당] 할머니칼국수 | 허밍]]></title>
+            <link>https://hummingstereo.tistory.com/122</link>
+            <guid>https://hummingstereo.tistory.com/122</guid>
+            <pubDate>Sun, 10 May 2026 13:53:23 GMT</pubDate>
+            <description><![CDATA[시골할머니칼국수인천 미추홀구 인주대로174번길 2 1층place.map.kakao.com 한줄평: 착한가격의 맛있는 국수집입니다. 주말에 종종 국수 먹고 싶을 때, 가는 곳입니다. 이름: 시골할머니칼국수* 인터넷 검색 시, 나오지 않기 때문에 지도를 참고하시고 찾아가시는 것을 추천드립니다. 주문메뉴: 비빔국수 할머니 사장님이 친절하시고, 손이 크신 맛있는 ]]></description>
+            <content:encoded><![CDATA[시골할머니칼국수인천 미추홀구 인주대로174번길 2 1층place.map.kakao.com 한줄평: 착한가격의 맛있는 국수집입니다. 주말에 종종 국수 먹고 싶을 때, 가는 곳입니다. 이름: 시골할머니칼국수* 인터넷 검색 시, 나오지 않기 때문에 지도를 참고하시고 찾아가시는 것을 추천드립니다. 주문메뉴: 비빔국수 할머니 사장님이 친절하시고, 손이 크신 맛있는 국수집 입니다.테이블마다 김가루, 양념장, 후추 등이 비치되어 있습니다.가격표 비빔국수 가게 외관]]></content:encoded>
+            <category>맛집 리뷰</category>
+            <enclosure length="0" type="image//thumb/R800x0/" url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FdnsZcf%2FdJMcaiwt9hB%2FAAAAAAAAAAAAAAAAAAAAABdH6ZX38OKr4P8z-GNikDmzB9q7uoqnSAhG84fXbuQb%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DWOBurRUr0Oo6KrOn9MV0slSCZU0%253D"/>
+        </item>
+    </channel>
+</rss>
